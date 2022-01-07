@@ -39,6 +39,6 @@ Contributors
 <!-- Copy-paste in your Readme.md file -->
 
 <a href = "https://github.com/codemarka/codemarka-client/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = codemarka/codemarka-client"/>
+  <img src = "https://contrib.rocks/image?repo=codemarka/codemarka-client"/>
 </a>
 
