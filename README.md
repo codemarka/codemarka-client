@@ -5,6 +5,14 @@
 A real time coding platform for teams with an additional conversation flow feature.
 
 ## Getting started with codemarka
+
+### Prerequisites
+To be able to setup the project locally, you need to have the following installed and working properly:
+- [Nodejs](https://nodejs.org/en/)
+- NPM
+- [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+### Setup steps
 - clone the repo
 - cd repo
 - npm install --save
