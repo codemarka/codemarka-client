@@ -1,0 +1,122 @@
+.env--continer {
+    position: relative;
+    height: 100vh;
+    max-height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.env--content--loading {
+    /* position: absolute; */
+    z-index: 3;
+    margin: 20% auto;
+    width: 100%;
+    height: 100%;
+}
+
+.preview_btn {
+    position: fixed;
+    color: #fff;
+    z-index: 99;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 10px;
+    margin-right: 260px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 4px;
+    animation: preview 2s infinite;
+    transition: box-shadow 0.6s linear;
+    animation-timing-function: ease-in-out;
+}
+
+.upload_btn {
+    position: fixed;
+    color: #498891;
+    z-index: 99;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 60px;
+    font-size: 9px;
+    margin-right: 25px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 4px;
+}
+
+.open_new_tab_btn {
+    position: fixed;
+    color: rgb(241 241 241);
+    z-index: 99;
+    right: 111px;
+    top: 61px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 4px;
+    ;
+}
+
+.close_preview_button {
+    position: fixed;
+    color: rgb(241 241 241);
+    z-index: 99;
+    right: 64px;
+    top: 60px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 4px;
+}
+
+.preview_btn:hover {
+    animation-play-state: paused;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+@keyframes preview {
+    from {
+        /* box-shadow: rgba(0, 255, 231, 0.33); */
+        color: #fff;
+    }
+    to {
+        /* box-shadow: 0px 0px 0px 10px #FC5185; */
+        color: rgba(0, 255, 231, 0.33);
+    }
+}
+
+.Toastify__toast--success {
+    background-color: #2dca8c !important;
+    border-color: #2dca8c;
+}
+
+.Toastify__toast--error {
+    color: #fff;
+    background-color: #ff5c75 !important;
+}
+
+.Toastify__toast--warning {
+    color: #fff;
+    background-color: #ffbe3d !important;
+}
+
+.Toastify__toast--info {
+    color: #fff;
+    background-color: #50b5ff !important;
+}
+
+.pending__uploaded__image {
+    width: 100%;
+    opacity: 0.3;
+}

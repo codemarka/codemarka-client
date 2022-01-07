@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="131px" viewBox="0 0 150 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Inbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inbox" fill-rule="nonzero">
+            <rect id="Rectangle-path" fill="#4988FD" x="90.9" y="91.8" width="9.8" height="38.9"></rect>
+            <rect id="Rectangle-path" fill="#4988FD" x="90.9" y="91.8" width="9.8" height="38.9"></rect>
+            <rect id="Rectangle-path" fill="#2767F4" x="100" y="91.8" width="9.8" height="38.9"></rect>
+            <rect id="Rectangle-path" fill="#2767F4" x="100" y="91.8" width="9.8" height="38.9"></rect>
+            <path d="M149.8,53.1 L149.8,92.4 L119.2,92.4 L119.2,92.5 L58,92.5 L58,22 L116.3,22 C117.1,21.9 117.9,21.9 118.7,21.9 C127.3,21.9 135.1,25.4 140.8,31.1 C146.3,36.7 149.8,44.5 149.8,53.1 Z" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" fill="#2767F4" cx="125.5" cy="54.3" r="6.2"></circle>
+            <path d="M88.4,92.4 L25.9,92.4 L25.9,50 C25.9,34.5 38.5,21.9 54,21.9 L60.3,21.9 C75.8,21.9 88.4,34.5 88.4,50 L88.4,92.4 Z" id="Shape" fill="#2767F4"></path>
+            <path d="M142.6,12.3 L127.6,12.3 L127.6,54.6 C127.6,55.8 126.6,56.8 125.4,56.8 C124.2,56.8 123.2,55.8 123.2,54.6 L123.2,0.7 L142.7,0.7 C143.3,0.7 143.5,1.4 143.1,1.7 L138.6,5.4 C138,5.9 138,6.9 138.6,7.4 L143.1,11.1 C143.4,11.6 143.2,12.3 142.6,12.3 Z" id="Shape" fill="#C5DCFA"></path>
+            <path d="M89.3,92.6 L2.9,92.6 C1.7,92.6 0.7,91.6 0.7,90.4 C0.7,89.2 1.7,88.2 2.9,88.2 L89.3,88.2 C90.5,88.2 91.5,89.2 91.5,90.4 C91.5,91.6 90.6,92.6 89.3,92.6 Z" id="Shape" fill="#4988FD"></path>
+            <g id="Group" transform="translate(19.000000, 42.000000)">
+                <path d="M28,0.9 L2,0.9" id="Shape" fill="#FFFFFF"></path>
+                <path d="M55,2.5 L55,37.7 C55,38.6 54.4,39.3 53.7,39.3 L2,39.3 C1.3,39.3 0.7,38.6 0.7,37.7 L0.8,0.9 L53.5,0.9 C54,0.9 54.4,1.1 54.6,1.5 C54.9,1.7 55,2.1 55,2.5 Z" id="Shape" fill="#DFECFD"></path>
+                <path d="M54.6,1.5 L30.6,20.8 C28.7,22.4 26,22.4 24.1,20.7 L1.8,1.8 L0.8,0.9 L53.4,0.9 C54,0.9 54.4,1.1 54.6,1.5 Z" id="Shape" fill="#C5DCFA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

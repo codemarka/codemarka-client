@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="146px" viewBox="0 0 113 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Image_File</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image_File" fill-rule="nonzero">
+            <path d="M111.1,36.5 L112.3,138.9 C112.3,142.4 109.5,145.2 106,145.2 L6.4,145.2 C2.9,145.2 0.1,142.4 0.1,138.9 L0.1,7.2 C0.1,3.7 2.9,0.9 6.4,0.9 L78.6,0.9 L111.1,36.5 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M40.2,91.2 L35.8,95.6 C34.2,97.2 31.6,97.2 30,95.6 L25.6,91.2 L33,83.8 L40.2,91.2 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M81.8,73.5 L75.3,80 C73.7,81.6 71.1,81.6 69.5,80 L63.6,74.1 L73,64.7 L81.8,73.5 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M78.7,1.1 L78.7,29.3 C78.7,33.2 82.2,36.5 86,36.5 L111.1,36.5" id="Shape" fill="#3973F4"></path>
+            <path d="M54.7,108 C54.1,108 53.4,107.8 52.9,107.3 L32,86.4 L16.4,102 C15.4,103 13.8,103 12.9,102 C11.9,101 11.9,99.4 12.9,98.5 L30.3,81.1 C31.3,80.1 32.9,80.1 33.8,81.1 L56.4,103.7 C57.4,104.7 57.4,106.3 56.4,107.2 C56,107.8 55.4,108 54.7,108 Z" id="Shape" fill="#DFECFD"></path>
+            <path d="M104.6,99 C104,99 103.3,98.8 102.8,98.3 L72.8,68.3 L49.4,91.7 C48.4,92.7 46.8,92.7 45.9,91.7 C44.9,90.7 44.9,89.1 45.9,88.2 L71.1,63 C72,62.1 73.7,62.1 74.6,63 L106.3,94.7 C107.3,95.7 107.3,97.3 106.3,98.2 C105.9,98.7 105.3,99 104.6,99 Z" id="Shape" fill="#DFECFD"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="34" cy="55.7" r="9.2"></circle>
+        </g>
+    </g>
+</svg>

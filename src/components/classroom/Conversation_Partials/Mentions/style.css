@@ -1,0 +1,41 @@
+.mention-list {
+    max-height: 300px;
+    overflow-y: auto;
+    height: auto;
+    flex-direction: column;
+    position: absolute;
+    left: 0px;
+    bottom: 79px;
+    z-index: 99;
+    width: 100%;
+}
+
+.mention-list-item {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: .2rem .2rem;
+    margin-bottom: -1px;
+    background-color: #2c3848;
+    border: 1px solid #eff2f7;
+    align-items: center;
+    justify-content: flex-start;
+    color: #fff;
+}
+
+.mention-list-item:hover {
+    color: #fff;
+    background-color: #1f2d3d;
+}
+
+.mention-list:first-child {
+    border-top-left-radius: .375rem;
+    border-top-right-radius: .375rem;
+}
+
+.mentions-avatar {
+    border: 1px solid #6f7784 !important;
+    height: 2.125rem !important;
+    width: 2.125rem !important;
+    margin-right: 10px;
+}

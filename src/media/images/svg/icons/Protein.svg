@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="142px" viewBox="0 0 95 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Protein</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Protein" fill-rule="nonzero">
+            <rect id="Rectangle-path" fill="#3973F4" x="23.7" y="20.2" width="48.2" height="21.8"></rect>
+            <path d="M81.2,5.9 L81.2,17.3 C81.2,20.2 78.8,22.6 75.9,22.6 L19.6,22.6 C16.7,22.6 14.3,20.2 14.3,17.3 L14.3,5.9 C14.3,3 16.7,0.6 19.6,0.6 L75.9,0.6 C78.8,0.6 81.2,2.9 81.2,5.9 Z" id="Shape" fill="#BAD8FF"></path>
+            <path d="M81.2,5.9 L81.2,13 C81.2,15.9 78.8,18.3 75.9,18.3 L19.6,18.3 C16.7,18.3 14.3,15.9 14.3,13 L14.3,5.9 C14.3,3 16.7,0.6 19.6,0.6 L75.9,0.6 C78.8,0.6 81.2,2.9 81.2,5.9 Z" id="Shape" fill="#D5E6FD"></path>
+            <path d="M94.8,59.1 L94.8,116.5 C94.8,130.1 83.7,141.2 70.1,141.2 L25.3,141.2 C11.7,141.2 0.6,130.2 0.6,116.5 L0.6,59.1 C0.6,58.9 0.6,58.6 0.6,58.4 C0.8,51.4 3.4,45.1 7.7,40.2 C13,34.2 20.7,30.4 29.3,30.4 L66.1,30.4 C81.7,30.4 94.4,42.9 94.7,58.4 C94.8,58.6 94.8,58.8 94.8,59.1 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M94.7,95.5 L94.7,118.6 C94.7,131 84.6,141.1 72.2,141.1 L34,141.1 C27.4,141.1 21.4,138.2 17.3,133.7 C12.9,128.8 16.3,121 22.8,121 C30.7,121 44.6,121 69.1,121 C83.3,121.1 94.7,109.7 94.7,95.5 Z" id="Shape" fill="#4278F4"></path>
+            <path d="M94.8,59.1 L94.8,116.5 L0.6,116.5 L0.6,59.1 C0.6,58.9 0.6,58.6 0.6,58.4 L94.7,58.4 C94.8,58.6 94.8,58.8 94.8,59.1 Z" id="Shape" fill="#6097FD"></path>
+            <path d="M94.7,95.5 L94.7,116.5 L83.7,116.5 C90.4,111.9 94.7,104.2 94.7,95.5 Z" id="Shape" fill="#4988FD"></path>
+        </g>
+    </g>
+</svg>

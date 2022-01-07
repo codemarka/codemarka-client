@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="145px" viewBox="0 0 79 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile_Phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile_Phone" fill-rule="nonzero">
+            <path d="M68,144.4 L11,144.4 C5.3,144.4 0.6,139.8 0.6,134 L0.6,10.7 C0.6,5 5.2,0.3 11,0.3 L68,0.3 C73.7,0.3 78.4,4.9 78.4,10.7 L78.4,134 C78.4,139.7 73.7,144.4 68,144.4 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M78.4,10.7 L78.4,134 C78.4,139.7 73.8,144.4 68,144.4 L11,144.4 C5.3,144.4 0.6,139.8 0.6,134 L0.6,10.7 C0.6,5 5.2,0.3 11,0.3 L68,0.3 C73.7,0.4 78.4,5 78.4,10.7 Z" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" fill="#2767F4" cx="39.5" cy="134.9" r="4.8"></circle>
+            <g id="Group" transform="translate(30.000000, 6.000000)" fill="#2767F4">
+                <path d="M17,2.2 L6.3,2.2 C5.7,2.2 5.2,1.7 5.2,1.1 C5.2,0.5 5.7,-9.09494702e-13 6.3,-9.09494702e-13 L17,-9.09494702e-13 C17.6,-9.09494702e-13 18.1,0.5 18.1,1.1 C18.1,1.7 17.6,2.2 17,2.2 Z" id="Shape"></path>
+                <path d="M2.3,2.2 L2,2.2 C1.4,2.2 0.9,1.7 0.9,1.1 C0.9,0.5 1.4,-9.09494702e-13 2,-9.09494702e-13 L2.3,-9.09494702e-13 C2.9,-9.09494702e-13 3.4,0.5 3.4,1.1 C3.4,1.7 3,2.2 2.3,2.2 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-path" fill="#FFFFFF" x="4.3" y="12.5" width="70.5" height="113.4"></rect>
+        </g>
+    </g>
+</svg>

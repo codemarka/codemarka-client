@@ -1,0 +1,18 @@
+@media screen and (max-width: 992px) {
+  #navbar-success {
+    background-color: #273444;
+    padding-left: 20px;
+  }
+}
+
+.codemarka-reconnecting {
+  z-index: 999999;
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  background-color: #141414c7;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  flex-direction: column;
+}

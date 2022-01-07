@@ -1,0 +1,362 @@
+.videos-remote-user {
+  position: absolute;
+  top: 4rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  align-items: center;
+}
+
+.wave_alert_rtc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-unmuted {
+  background-color: #72b97c;
+  border-radius: 5px;
+}
+
+.user-muted {
+  background-color: #f85867;
+  border-radius: 5px;
+}
+
+.userVideo-placecholder {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2c3848;
+}
+
+.userVideo-placecholder img {
+  border-radius: 50%;
+}
+
+.user_name_label {
+  position: absolute;
+    border-radius: 4px;
+    padding: .3rem;
+    font-size: initial;
+    z-index: 22;
+    top: 3%;
+    left: 3%;
+    height: 27px;
+    display: flex;
+    align-items: center;
+}
+
+.audio_broadcast_btn-ended {
+  background-color: #ff5c75;
+  position: fixed;
+  color: #fff;
+  z-index: 99;
+  right: 0;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 10px;
+  padding: 10px;
+  bottom: 70px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.local_video {
+  position: fixed;
+  /* color: #fff; */
+  z-index: 99;
+  right: 0;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 10px;
+  padding: 10px;
+  bottom: 70px;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+
+.remote_video {
+  position: fixed;
+  /* color: #fff; */
+  z-index: 99;
+  right: 0;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 10px;
+  padding: 10px;
+  bottom: 170px;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+
+.audio_switch_button {
+  background-color: #fff;
+  position: fixed;
+  color: #000;
+  z-index: 99;
+  right: 0;
+  margin-bottom: 80px;
+  margin-right: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 10px;
+  padding: 10px;
+  bottom: 70px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.audio_broadcast_btn-started {
+  background-color: #5cffb3;
+  position: fixed;
+  color: #fff;
+  z-index: 99;
+  right: 0;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 10px;
+  padding: 10px;
+  bottom: 70px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  /* animation: recording 1s infinite; */
+}
+
+@keyframes recording {
+  from {
+    /* box-shadow: rgba(0, 255, 231, 0.33); */
+    border: 1px solid #ed7489;
+  }
+  to {
+    /* box-shadow: 0px 0px 0px 10px #FC5185; */
+    border: 3px solid #e7c4ca;
+  }
+}
+
+.participant-host-video-container {
+  background-color: #1f2d3d;
+  position: relative;
+  color: #fff;
+  border: none;
+  font-size: 10px;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  overflow-y: auto;
+}
+
+.video-container {
+height: 13rem;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-bottom: 1rem;
+    border: 2px solid #2c3848;
+    border-radius: 6px;
+}
+
+video.userVideo {
+  border: 2px solid #72b97c;
+  border-radius: 5px;
+}
+
+video.userVideo-muted {
+  border: 2px solid #ca3a3a;
+  border-radius: 5px;
+}
+
+video {
+  height: 100%;
+  width: 100%;
+  transform: rotateY(180deg);
+  position: absolute;
+  width: 100%;
+}
+
+.host-video-container {
+  height: 10rem;
+  margin: 10px;
+}
+
+.video-audio-controls {
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  bottom: 0;
+  height: 0;
+  justify-content: space-evenly;
+  align-items: center;
+  background: #72b97c;
+  transition: ease-out 0.3s;
+  display: none;
+  -webkit-animation: slide 0.5s forwards;
+  -webkit-animation-delay: 2s;
+  animation: slide 0.5s forwards;
+  animation-delay: 2s;
+}
+
+@-webkit-keyframes slide {
+  100% {
+    height: 3rem;
+  }
+}
+
+@keyframes slide {
+  100% {
+    height: 3rem;
+  }
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.video-audio-icon-button {
+  font-size: large;
+}
+
+.video-container:hover .video-audio-controls {
+  display: flex;
+  height: 3rem;
+}
+
+.local-video-container {
+  height: 10rem;
+  margin: 10px;
+}
+
+video.host-video, video.local-video {
+  background-color: #000;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  border-radius: 6px;
+}
+
+.video-label {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  padding: 7px;
+  color: #ebd200;
+  font-weight: bold;
+  background-color: #1f2d3d;
+  width: auto;
+  border-bottom-right-radius: 7px;
+}
+
+.hide {
+  font-weight: bolder;
+  position: absolute;
+  height: 8%;
+  background-color: #2c3848;
+  width: 100%;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  /* z-index: 99; */
+}
+
+.group-audio-settings {
+  cursor: pointer;
+}
+
+.remote-participant-video-container {
+  height: 10rem;
+  border: 2px solid;
+  margin: 10px;
+}
+
+.video-chat-actions-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+  font-size: small;
+  display: flex;
+  align-items: center;
+  background-color: black;
+  padding: 0 16px;
+}
+
+.mediaControls {
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 7px;
+  color: #ebd200;
+  font-weight: bold;
+  /* background-color: #ffffff3d; */
+  width: 100%;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.mediaControls span {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.mediaControls span i {
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  font-size: 1rem!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.wrapper-on-muted {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 14;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  font-size: 1rem;
+}
+
+.my-video-off-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  font-size: 2rem;
+}

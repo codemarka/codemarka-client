@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="150px" viewBox="0 0 149 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>POS_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POS_2">
+            <g id="Group" transform="translate(80.000000, 51.000000)" fill-rule="nonzero">
+                <path d="M41.4,4.6 L41.4,59.7 C41.4,62 39.6,63.8 37.3,63.8 L4.3,63.8 C2,63.8 0.2,62 0.2,59.7 L0.2,4.6 C0.2,2.3 2,0.5 4.3,0.5 L37.3,0.5 C39.5,0.5 41.4,2.4 41.4,4.6 Z" id="Shape" fill="#4988FD"></path>
+                <rect id="Rectangle-path" fill="#3973F4" x="8.7" y="0.5" width="8" height="63.3"></rect>
+                <path d="M41.4,23.2 L41.4,42.5 L47.9,49.8 C49.1,51.1 49.8,52.8 49.9,54.6 L50.2,60.5 C50.3,61.4 49.7,62.2 48.9,62.4 L42,64.4 C41,64.7 39.9,64.2 39.5,63.2 L39.4,63 L38.3,60.5 L34.2,50.7 C33.9,50.1 33.6,49.5 33.2,49 C31.1,46.3 27.3,45.3 24.1,46.8 C22.8,47.4 22,48.8 22,50.2 C22,50.6 22.1,51 22.2,51.4 L26.5,63.8 L31.8,79.2 C32.6,81.7 34.1,83.9 36,85.6 L41.5,90.5 L44.3,93 C44.8,93.4 45.4,93.6 46,93.6 C49.4,93.6 61.2,93.4 66.4,93.5 C67.8,93.5 68.9,92.4 68.9,91 L68.9,54.7 C68.9,51.7 67.7,48.9 65.6,46.8 L41.4,23.2 Z" id="Shape" fill="#C5DCFA"></path>
+            </g>
+            <path d="M109.8,24.5 C108.7,24.5 107.8,23.6 107.8,22.5 L107.8,19.7 C107.8,18.6 108.7,17.7 109.8,17.7 C110.9,17.7 111.8,18.6 111.8,19.7 L111.8,22.5 C111.8,23.6 110.9,24.5 109.8,24.5 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M109.8,48.6 C108.7,48.6 107.8,47.7 107.8,46.6 L107.8,29.4 C107.8,28.3 108.7,27.4 109.8,27.4 C110.9,27.4 111.8,28.3 111.8,29.4 L111.8,46.6 C111.8,47.7 110.9,48.6 109.8,48.6 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M100.1,22.7 C99,22.7 98.1,21.8 98.1,20.7 L98.1,9.2 C98.1,8.1 99,7.2 100.1,7.2 C101.2,7.2 102.1,8.1 102.1,9.2 L102.1,20.7 C102.1,21.8 101.2,22.7 100.1,22.7 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M100.1,48.6 C99,48.6 98.1,47.7 98.1,46.6 L98.1,28.9 C98.1,27.8 99,26.9 100.1,26.9 C101.2,26.9 102.1,27.8 102.1,28.9 L102.1,46.6 C102.1,47.7 101.2,48.6 100.1,48.6 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <g id="Group">
+                <path d="M30.9,26.3 L79.9,26.3 C84.1,26.3 87.6,29.7 87.6,34 L87.6,82.5 C87.6,83.6 87.6,84.7 87.5,85.8 L82.9,141.1 C82.5,146 78.4,149.8 73.5,149.8 L15,149.8 C10.1,149.8 6,146 5.6,141.1 L1,85.8 C0.9,84.7 0.9,83.6 0.9,82.5 L0.9,34 C0.9,29.8 4.3,26.3 8.6,26.3 L16.6,26.3" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+                <path d="M16.6,26.3 L22.6,26.3" id="Shape" stroke="#91C2FF" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M20,26.3 L20.9,26.3" id="Shape" stroke="#91C2FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M76.5,55.5 L76.5,69.9 C76.5,72 74.9,73.7 72.9,73.7 L15.6,73.7 C13.6,73.7 12,72 12,69.9 L12,55.5 C12,53.4 13.6,51.7 15.6,51.7 L72.9,51.7 C74.9,51.7 76.5,53.4 76.5,55.5 Z" id="Shape" fill="#DFECFD" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="44.1" cy="90.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="44.1" cy="109.8" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="23" cy="90.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="64.9" cy="90.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="23.2" cy="109.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="64.9" cy="109.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="23.2" cy="128.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="44.1" cy="128.6" r="5.5"></circle>
+                <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="64.9" cy="128.6" r="5.5"></circle>
+                <g transform="translate(10.000000, 0.000000)" fill-rule="nonzero" id="Shape">
+                    <path d="M66.5,45.9 L2.6,45.9 C1.2,45.9 0.1,44.8 0.1,43.4 C0.1,42 1.2,40.9 2.6,40.9 L66.5,40.9 C67.9,40.9 69,42 69,43.4 C69,44.7 67.9,45.9 66.5,45.9 Z" fill="#3973F4"></path>
+                    <g transform="translate(5.000000, 0.000000)">
+                        <path d="M46.3,5.6 L46.3,0.3 L40.6,4.6 L34.9,0.3 L29.2,4.6 L23.5,0.3 L17.8,4.6 L12.1,0.3 L6.4,4.6 L0.7,0.3 L0.7,29.8 C0.8,37.5 2.2,40.8 8.7,43.3 L54.6,43.3 C48.2,41.6 46.4,37.7 46.6,29.8 L46.6,17.3" fill="#DFECFD"></path>
+                        <path d="M35.7,26.3 L8.5,26.3 C7.5,26.3 6.6,25.5 6.6,24.4 C6.6,23.4 7.4,22.5 8.5,22.5 L35.7,22.5 C36.7,22.5 37.6,23.3 37.6,24.4 C37.6,25.5 36.8,26.3 35.7,26.3 Z" fill="#C5DCFA"></path>
+                        <path d="M35.7,16.9 L25.1,16.9 C24.1,16.9 23.2,16.1 23.2,15 C23.2,13.9 24,13.1 25.1,13.1 L35.7,13.1 C36.7,13.1 37.6,13.9 37.6,15 C37.6,16.1 36.8,16.9 35.7,16.9 Z" fill="#C5DCFA"></path>
+                        <path d="M12.6,16.9 L8.5,16.9 C7.5,16.9 6.6,16.1 6.6,15 C6.6,13.9 7.4,13.1 8.5,13.1 L12.6,13.1 C13.6,13.1 14.5,13.9 14.5,15 C14.5,16.1 13.7,16.9 12.6,16.9 Z" fill="#C5DCFA"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

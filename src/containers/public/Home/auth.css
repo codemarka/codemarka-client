@@ -1,0 +1,67 @@
+.search__container {
+    background-image: url('../../../media/images/Teacher-with-students-using-tablets-Feature-Image.jpg');
+    /* height: 80vh; */
+    opacity: 0.8;
+    position: relative;
+    display: block;
+    /* z-index: -1; */
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    height: 87vh;
+    margin:0px;
+}
+
+
+.colab__container {
+    width: 100%;
+    padding: 0px;
+    margin:0px;
+    height: auto;
+}
+
+
+.all__classrooms__container {
+    width: 100%;
+    margin:0px;
+    height: auto;
+    display: block;
+}
+
+.search__input__container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 40%;
+    width: 40%;
+}
+
+@media screen and (max-width: 958px) {
+    .search__input__container {
+        margin: auto;
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .search__input__container {
+        margin: auto;
+        width: 90%;
+    }
+
+    .input-group-append {
+        display: none;
+    }
+}
+
+.trending__title h3::after{
+    border-bottom: 4px solid #26ab76;
+    border-radius: 6px;
+    width: 70%;
+    content: "";
+    display: block;
+}
+.bg-size--home {
+    background-image: url('../../../media/images/vectors/eastwood-order-completed.png');
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="148px" viewBox="0 0 125 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Pay_with_card_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pay_with_card_2" fill-rule="nonzero">
+            <g id="Group" transform="translate(22.000000, 0.000000)">
+                <path d="M98.5,26 L4.4,26 C2,26 0.1,24.1 0.1,21.7 L0.1,5 C0.1,2.6 2,0.7 4.4,0.7 L98.5,0.7 C100.9,0.7 102.8,2.6 102.8,5 L102.8,21.6 C102.9,24 100.9,26 98.5,26 Z" id="Shape" fill="#3973F4"></path>
+                <path d="M94,16.9 L11.5,16.9 C9.8,16.9 8.5,15.6 8.5,13.9 C8.5,12.2 9.8,10.9 11.5,10.9 L94,10.9 C95.7,10.9 97,12.2 97,13.9 C97,15.6 95.7,16.9 94,16.9 Z" id="Shape" fill="#2767F4"></path>
+            </g>
+            <g id="Group" transform="translate(0.000000, 10.000000)">
+                <path d="M101.9,0.9 L101.9,80.7 C101.9,84.2 99.1,87 95.6,87 L48.8,87 C45.3,87 42.5,84.2 42.5,80.7 L42.5,0.9 L101.9,0.9 Z" id="Shape" fill="#4988FD"></path>
+                <rect id="Rectangle-path" fill="#3973F4" x="77.2" y="0.9" width="11" height="86.1"></rect>
+                <path d="M42.6,29.8 L42.6,59.4 L32.6,70.6 C30.8,72.6 29.7,75.2 29.5,77.9 L29,86.9 C28.9,88.2 29.8,89.5 31.1,89.8 L41.7,92.9 C43.2,93.4 44.9,92.6 45.5,91.1 L45.6,90.7 L47.2,86.9 L53.4,71.9 C53.8,70.9 54.3,70 55,69.2 C58.2,65.1 64,63.5 68.9,65.9 C71,66.9 72.2,68.9 72.2,71.1 C72.2,71.7 72.1,72.3 71.9,73 L65.4,91.9 L57.3,115.4 C56,119.2 53.8,122.5 50.8,125.2 L42.4,132.8 L38.1,136.6 C37.4,137.2 36.5,137.6 35.5,137.6 C30.2,137.5 12.2,137.4 4.2,137.4 C2.1,137.4 0.4,135.7 0.4,133.6 L0.4,78 C0.4,73.4 2.2,69.1 5.5,65.9 L42.6,29.8 Z" id="Shape" fill="#C5DCFA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+@media screen and (max-width:748px) {
+  .how_it_works_header{
+    font-size:40px;
+  }
+  .how_it_works.icon_container {
+    padding: 40px;
+    margin-bottom: 30px;
+  }
+  i.how_it_works_icono {
+    /* border: 2px solid black; */
+    padding: 30px;
+    /* background-color: #0c0f22; */
+    /* border-radius: 50%; */
+  }
+}
+
+i.how_it_works_icono {
+  /* border: 2px solid black; */
+  padding: 30px;
+  margin:50px;
+  font-size:50px;
+  /* background-color: #0c0f22; */
+  /* border-radius: 50%; */
+}
+
+.how_it_works_header {
+  font-size: 50px;
+}
+
+.how_it_works.icon_container {
+  padding: 40px;
+  margin-bottom: 60px;
+}

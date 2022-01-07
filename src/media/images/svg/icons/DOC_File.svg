@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="146px" viewBox="0 0 142 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>DOC_File</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DOC_File">
+            <path d="M140.8,36.1 L142,139.5 C142,143 139.2,145.8 135.7,145.8 L35.2,145.8 C31.7,145.8 28.9,143 28.9,139.5 L28.9,6.6 C28.9,3.1 31.7,0.3 35.2,0.3 L108.1,0.3 L140.8,36.1 Z" id="Shape" fill="#DFECFD" fill-rule="nonzero"></path>
+            <path d="M123.3,107.4 L63,107.4 C62.2,107.4 61.5,106.7 61.5,105.9 C61.5,105.1 62.2,104.4 63,104.4 L123.3,104.4 C124.1,104.4 124.8,105.1 124.8,105.9 C124.8,106.7 124.2,107.4 123.3,107.4 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M55.7,107.4 L45.1,107.4 C44.3,107.4 43.6,106.7 43.6,105.9 C43.6,105.1 44.3,104.4 45.1,104.4 L55.7,104.4 C56.5,104.4 57.2,105.1 57.2,105.9 C57.2,106.7 56.5,107.4 55.7,107.4 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M123.2,91.1 L96.3,91.1 C95.5,91.1 94.8,90.4 94.8,89.6 C94.8,88.8 95.5,88.1 96.3,88.1 L123.2,88.1 C124,88.1 124.7,88.8 124.7,89.6 C124.7,90.4 124,91.1 123.2,91.1 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M84.9,91.1 L45.6,91.1 C44.8,91.1 44.1,90.4 44.1,89.6 C44.1,88.8 44.8,88.1 45.6,88.1 L84.9,88.1 C85.7,88.1 86.4,88.8 86.4,89.6 C86.4,90.4 85.7,91.1 84.9,91.1 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M123.7,74.9 L113.3,74.9 C112.5,74.9 111.8,74.2 111.8,73.4 C111.8,72.6 112.5,71.9 113.3,71.9 L123.7,71.9 C124.5,71.9 125.2,72.6 125.2,73.4 C125.2,74.2 124.5,74.9 123.7,74.9 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M103.6,74.9 L46.1,74.9 C45.3,74.9 44.6,74.2 44.6,73.4 C44.6,72.6 45.3,71.9 46.1,71.9 L103.6,71.9 C104.4,71.9 105.1,72.6 105.1,73.4 C105.1,74.2 104.5,74.9 103.6,74.9 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M77.7,125.2 L74.1,125.2 C73.3,125.2 72.6,124.5 72.6,123.7 C72.6,122.9 73.3,122.2 74.1,122.2 L77.7,122.2 C78.5,122.2 79.2,122.9 79.2,123.7 C79.2,124.5 78.5,125.2 77.7,125.2 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M67.5,125.2 L46.1,125.2 C45.3,125.2 44.6,124.5 44.6,123.7 C44.6,122.9 45.3,122.2 46.1,122.2 L67.5,122.2 C68.3,122.2 69,122.9 69,123.7 C69,124.5 68.3,125.2 67.5,125.2 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M124.2,58.6 L87.1,58.6 C86.3,58.6 85.6,57.9 85.6,57.1 C85.6,56.3 86.3,55.6 87.1,55.6 L124.2,55.6 C125,55.6 125.7,56.3 125.7,57.1 C125.7,57.9 125.1,58.6 124.2,58.6 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M75.3,58.6 L46.7,58.6 C45.9,58.6 45.2,57.9 45.2,57.1 C45.2,56.3 45.9,55.6 46.7,55.6 L75.3,55.6 C76.1,55.6 76.8,56.3 76.8,57.1 C76.8,57.9 76.1,58.6 75.3,58.6 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M95.4,21.9 L47.2,21.9 C46.1,21.9 45.2,21 45.2,19.9 C45.2,18.8 46.1,17.9 47.2,17.9 L95.4,17.9 C96.5,17.9 97.4,18.8 97.4,19.9 C97.4,21 96.5,21.9 95.4,21.9 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+            <path d="M65.6,33.4 L47.2,33.4 C46.1,33.4 45.2,32.5 45.2,31.4 C45.2,30.3 46.1,29.4 47.2,29.4 L65.6,29.4 C66.7,29.4 67.6,30.3 67.6,31.4 C67.6,32.5 66.7,33.4 65.6,33.4 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+            <path d="M108,0.3 L108,28.8 C108,32.7 111.5,36.1 115.4,36.1 L140.7,36.1" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M59.4,84.4 L5.6,84.4 C2.8,84.4 0.5,82.1 0.5,79.3 L0.5,54.8 C0.5,52 2.8,49.7 5.6,49.7 L59.4,49.7 C62.2,49.7 64.5,52 64.5,54.8 L64.5,79.3 C64.5,82.1 62.2,84.4 59.4,84.4 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+            <text id="D" fill="#FFFFFF" font-family="Helvetica" font-size="20.9718" font-weight="normal">
+                <tspan x="8.6125" y="74.4321">D</tspan>
+            </text>
+            <text id="O" fill="#FFFFFF" font-family="Helvetica" font-size="20.9718" font-weight="normal">
+                <tspan x="25.2258" y="74.4321">O</tspan>
+            </text>
+            <text id="C" fill="#FFFFFF" font-family="Helvetica" font-size="20.9718" font-weight="normal">
+                <tspan x="42.8938" y="74.4321">C</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="143px" height="148px" viewBox="0 0 143 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Bank</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bank" fill-rule="nonzero">
+            <g id="Group" transform="translate(18.000000, 57.000000)">
+                <rect id="Rectangle-path" fill="#3973F4" x="0.1" y="0" width="15.5" height="63.8"></rect>
+                <rect id="Rectangle-path" fill="#3973F4" x="45.7" y="0" width="15.5" height="63.8"></rect>
+                <rect id="Rectangle-path" fill="#3973F4" x="91.2" y="0" width="15.5" height="63.8"></rect>
+                <rect id="Rectangle-path" fill="#2767F4" x="0.1" y="0" width="15.5" height="10.7"></rect>
+                <rect id="Rectangle-path" fill="#2767F4" x="45.7" y="0" width="15.5" height="10.7"></rect>
+                <rect id="Rectangle-path" fill="#2767F4" x="91.2" y="0" width="15.5" height="10.7"></rect>
+            </g>
+            <path d="M132.3,133.8 L10.5,133.8 L10.5,124.1 C10.5,122.1 12.2,120.4 14.2,120.4 L128.6,120.4 C130.6,120.4 132.3,122.1 132.3,124.1 L132.3,133.8 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M56.5,133.8 L58.1,133.8" id="Shape" fill="#4988FD"></path>
+            <path d="M73.5,133.8 L137.3,133.8 C139.3,133.8 141,135.5 141,137.5 L141,147.2 L1.8,147.2 L1.8,137.5 C1.8,135.5 3.5,133.8 5.5,133.8 L40.1,133.8" id="Shape" fill="#6097FD"></path>
+            <path d="M50.1,13.8 L66.2,1.9 C69.3,-0.4 73.5,-0.4 76.6,1.9 L140.9,49.5 C144.3,52 142.5,57.4 138.3,57.4 L4.4,57.4 C0.2,57.4 -1.6,52 1.8,49.5 L35.4,24.6" id="Shape" fill="#4988FD"></path>
+            <path d="M35.5,24.6 L42.4,19.5" id="Shape" fill="#FFFFFF"></path>
+            <path d="M72.9,48.6 C71.6,48.6 70.5,47.5 70.5,46.2 L70.5,44.1 C68.8,44 67.1,43.5 65.6,42.8 C64.4,42.2 63.8,40.9 64.3,39.6 C64.7,38.6 65.6,37.9 66.7,37.9 C67.1,37.9 67.4,38 67.8,38.1 C68.8,38.5 70.3,39.1 72.2,39.1 C74.7,39.1 76.4,37.8 76.4,35.9 C76.4,34.6 75.9,33.2 72.1,31.7 C68,30.1 64.2,28 64.2,23.2 C64.2,19.3 66.8,16.3 70.8,15.3 L70.8,13.1 C70.8,11.8 71.9,10.7 73.2,10.7 C74.5,10.7 75.6,11.8 75.6,13.1 L75.6,15 C76.9,15.1 78.2,15.4 79.3,15.9 C80.6,16.4 81.2,17.9 80.7,19.2 C80.3,20.2 79.4,20.9 78.3,20.9 C78,20.9 77.6,20.8 77.3,20.7 C76.2,20.2 74.9,20 73.6,20 C70.9,20 70,21.4 70,22.7 C70,24.1 70.7,25 74.8,26.7 C78.3,28.1 82.2,30.4 82.2,35.7 C82.2,39.7 79.5,43 75.3,44 L75.3,46.3 C75.3,47.5 74.3,48.6 72.9,48.6 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

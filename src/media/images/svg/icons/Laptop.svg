@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="100px" viewBox="0 0 149 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Laptop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Laptop" fill-rule="nonzero">
+            <g id="Group">
+                <path d="M148.9,89.7 L148.9,93.6 C148.9,97.1 145.9,100 142.2,100 L7.4,100 C3.7,100 0.7,97.1 0.7,93.6 L0.7,89.7 L61.7,89.7 C62.2,91.1 63.6,92.2 65.3,92.2 L84.4,92.2 C86.1,92.2 87.5,91.2 88,89.7 L148.9,89.7 Z" id="Shape" fill="#2767F4"></path>
+                <path d="M148.9,89.7 C148.9,93.2 145.9,96 142.2,96 L7.4,96 C3.7,96 0.7,93.2 0.7,89.7 L61.7,89.7 C62.2,91.1 63.6,92.2 65.3,92.2 L84.4,92.2 C86.1,92.2 87.5,91.2 88,89.7 L148.9,89.7 Z" id="Shape" fill="#3973F4"></path>
+                <path d="M141.4,89.7 L8.4,89.7 L8.4,5.5 C8.4,2.8 10.6,0.6 13.3,0.6 L136.6,0.6 C139.3,0.6 141.5,2.8 141.5,5.5 L141.4,89.7 Z" id="Shape" fill="#4988FD"></path>
+                <polyline id="Shape" fill="#FFFFFF" points="108.2 90 14.6 90 14.6 7.6 134.7 7.6 134.7 90 122.1 90"></polyline>
+                <path d="M14.6,7.6 L134.7,7.6" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

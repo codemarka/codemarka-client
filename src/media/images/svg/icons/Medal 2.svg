@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="127px" viewBox="0 0 105 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Medal 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Medal-2">
+            <polygon id="Shape" fill="#ACCFFD" fill-rule="nonzero" points="72.7 54.1 38 54.1 69.9 0.8 104.6 0.8"></polygon>
+            <polygon id="Shape" fill="#D5E6FD" fill-rule="nonzero" points="32.7 54.1 67.4 54.1 35.5 0.8 0.8 0.8"></polygon>
+            <path d="M47.1,49 L50.1,54.1" id="Shape" stroke="#1676EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" fill="#6097FD" fill-rule="nonzero" cx="53.5" cy="85.8" r="40.8"></circle>
+            <circle id="Oval" fill="#4988FD" fill-rule="nonzero" cx="53.5" cy="85.8" r="32.5"></circle>
+            <path d="M55.2,67 L60.1,76.9 C60.4,77.5 60.9,77.9 61.6,78 L72.6,79.6 C74.2,79.8 74.8,81.8 73.7,82.9 L65.8,90.6 C65.3,91 65.1,91.7 65.2,92.3 L67.1,103.2 C67.4,104.8 65.7,106 64.3,105.3 L54.5,100.1 C53.9,99.8 53.3,99.8 52.7,100.1 L42.9,105.3 C41.5,106.1 39.8,104.8 40.1,103.2 L42,92.3 C42.1,91.7 41.9,91 41.4,90.6 L33.5,82.9 C32.3,81.8 33,79.8 34.6,79.6 L45.6,78 C46.2,77.9 46.8,77.5 47.1,76.9 L52,67 C52.4,65.6 54.5,65.6 55.2,67 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

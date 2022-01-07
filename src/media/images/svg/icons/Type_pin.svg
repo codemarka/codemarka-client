@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="135px" height="142px" viewBox="0 0 135 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Type_pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Type_pin" fill-rule="nonzero">
+            <circle id="Oval" fill="#4988FD" cx="81.7" cy="12.1" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="81.7" cy="47.4" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="81.7" cy="82.7" r="12.1"></circle>
+            <path d="M134.3,82.8 L134.3,124.7 C134.3,133.9 126.8,141.3 117.7,141.3 L90.1,141.3 C87.3,141.3 84.6,140.3 82.5,138.5 C76,133 62,121 59.4,117 C59.4,117 59.4,116.9 59.4,116.9 C58.6,115.8 58.2,114.5 58.2,113 L58.2,88 C65.7,88 71.8,94.1 71.8,101.6 L71.8,111.8 L74.2,111.8 L74.2,52.6 C74.2,48.9 77.2,45.8 81,45.8 C84.8,45.8 87.8,48.8 87.8,52.6 L87.8,81.5 L90.1,81.5 L90.1,71.9 C90.1,68.1 93.1,65.1 96.9,65.1 C100.7,65.1 103.7,68.1 103.7,71.9 L103.7,81.7 L106.3,81.7 L106.3,76.9 C106.3,73.4 109.1,70.6 112.6,70.6 C116.1,70.6 118.9,73.4 118.9,76.9 L118.9,81.8 L121.7,81.8 C122.2,78.8 124.8,76.5 127.9,76.5 C131.5,76.5 134.3,79.3 134.3,82.8 Z" id="Shape" fill="#C5DCFA"></path>
+            <circle id="Oval" fill="#4988FD" cx="12.6" cy="12.1" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="47.1" cy="12.1" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="12.6" cy="47.4" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="47.1" cy="47.4" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="12.6" cy="82.7" r="12.1"></circle>
+            <circle id="Oval" fill="#4988FD" cx="47.1" cy="82.7" r="12.1"></circle>
+        </g>
+    </g>
+</svg>

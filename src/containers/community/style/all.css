@@ -1,0 +1,15 @@
+.commuities {
+  background-image: url('../../../media/images/images.png');
+}
+
+.search-community-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+div.community-data-container {
+  display: flex;
+  justify-content: flex-start;
+}

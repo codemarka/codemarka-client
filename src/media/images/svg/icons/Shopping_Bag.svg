@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="141px" viewBox="0 0 136 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Shopping_Bag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shopping_Bag" fill-rule="nonzero">
+            <polygon id="Shape" fill="#4988FD" points="76.5 1.7 36.3 0 27.6 0 23.8 20.5 113.6 21 108.2 0"></polygon>
+            <path d="M129.6,140.9 L6.3,140.9 C3,140.9 0.3,138.1 0.5,134.8 L5.9,28.8 C6,26.6 7.9,24.8 10.1,24.8 L126.3,24.8 C128.5,24.8 130.4,26.6 130.5,28.8 L135.4,134.8 C135.5,138.1 132.9,140.9 129.6,140.9 Z" id="Shape" fill="#6097FD"></path>
+            <polygon id="Shape" fill="#3973F4" points="108.2 0 27.6 0 37.3 12.7 9.3 24.8 126.5 24.8 98 12.7"></polygon>
+            <circle id="Oval" fill="#3973F4" cx="35.9" cy="49.2" r="7.3"></circle>
+            <circle id="Oval" fill="#3973F4" cx="96.7" cy="49.2" r="7.3"></circle>
+            <path d="M70.6,97.5 C69.6,97.6 68.5,97.6 67.4,97.6 C54,97.6 44.1,93.8 37.8,86.2 C31,77.9 29.1,65.5 32.2,49.3 C32.6,47.4 34.4,46.2 36.3,46.5 C38.2,46.9 39.4,48.7 39.1,50.6 C36.4,64.6 37.8,75.1 43.2,81.7 C48,87.5 56.2,90.5 67.4,90.5 C77.2,90.5 84.9,87.4 89.7,81.4 C95.3,74.4 96.6,63.8 93.6,50.7 C93.2,48.8 94.3,46.9 96.2,46.5 C98.1,46.1 100,47.2 100.4,49.1 C103.9,64.3 102.1,77 95.2,85.7 C89.6,92.9 81.1,96.9 70.6,97.5 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

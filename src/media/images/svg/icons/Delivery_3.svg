@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="126px" viewBox="0 0 149 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Delivery_3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Delivery_3" fill-rule="nonzero">
+            <path d="M67.5,112.4 C65.5,112.4 63.7,111 63.2,109 L38.8,9.5 L30,9.5 C27.5,9.5 25.5,7.5 25.5,5 C25.5,2.5 27.5,0.5 30,0.5 L42.3,0.5 C44.4,0.5 46.1,1.9 46.6,3.9 L70.8,102.5 L142.6,85.9 C145,85.3 147.4,86.8 148,89.2 C148.6,91.6 147.1,94 144.7,94.6 L68.6,112.2 C68.1,112.4 67.8,112.4 67.5,112.4 Z" id="Shape" fill="#6097FD"></path>
+            <circle id="Oval" fill="#2767F4" cx="67.2" cy="107.9" r="17.5"></circle>
+            <circle id="Oval" fill="#DFECFD" cx="67.2" cy="107.9" r="8.8"></circle>
+            <path d="M30.3,31.1 L3,31.1 C1.5,31.1 0.3,29.9 0.3,28.4 C0.3,26.9 1.5,25.7 3,25.7 L30.3,25.7 C31.8,25.7 33,26.9 33,28.4 C33,29.9 31.8,31.1 30.3,31.1 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M33,46.5 L9.3,46.5 C7.8,46.5 6.6,45.3 6.6,43.8 C6.6,42.3 7.8,41.1 9.3,41.1 L33,41.1 C34.5,41.1 35.7,42.3 35.7,43.8 C35.7,45.3 34.5,46.5 33,46.5 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M37.3,61.2 L26.8,61.2 C25.3,61.2 24.1,60 24.1,58.5 C24.1,57 25.3,55.8 26.8,55.8 L37.3,55.8 C38.8,55.8 40,57 40,58.5 C40,59.9 38.8,61.2 37.3,61.2 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M133.2,77.4 L85.4,88.1 C83,88.6 80.5,87.1 80,84.7 L69.3,36.9 C68.8,34.5 70.3,32 72.7,31.5 L120.5,20.8 C122.9,20.3 125.4,21.8 125.9,24.2 L136.6,72 C137.2,74.4 135.7,76.9 133.2,77.4 Z" id="Shape" fill="#4988FD"></path>
+            <polyline id="Shape" fill="#FFFFFF" points="107.4 30.8 110 42.4 91.5 46.6 87.4 28.2 105.8 24"></polyline>
+            <polyline id="Shape" fill="#DFECFD" points="107.4 30.8 110 42.4 91.5 46.6 87.4 28.2 105.8 24"></polyline>
+        </g>
+    </g>
+</svg>

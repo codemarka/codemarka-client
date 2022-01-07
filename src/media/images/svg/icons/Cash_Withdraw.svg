@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Cash_Withdraw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cash_Withdraw" fill-rule="nonzero">
+            <polyline id="Shape" fill="#E1ECFA" points="11.4 46.9 0.5 46.9 0.5 0.5 133.9 0.5 133.9 46.9 113.2 46.9"></polyline>
+            <polyline id="Shape" fill="#C5DCFA" points="15.1 40.2 15.1 13.8 118.7 13.8 118.7 46.9"></polyline>
+            <polygon id="Shape" fill="#6097FD" points="96.1 54.2 96.2 76.7 7.2 76.7 7.2 54.2 23.8 24.9 112.3 24.9"></polygon>
+            <ellipse id="Oval" fill="#3973F4" cx="60.3" cy="38.4" rx="20.9" ry="7.7"></ellipse>
+            <polygon id="Shape" fill="#3973F4" points="96.2 76.7 112.3 46.8 112.3 24.9 96.1 54.2"></polygon>
+            <polygon id="Shape" fill="#4988FD" points="96.2 76.7 7.2 76.7 7.2 54.2 96.1 54.2"></polygon>
+            <polygon id="Shape" fill="#FFFFFF" points="61.9 24.9 44.3 54.2 44.3 76.7 57.7 76.7 57.7 54.2 75.4 24.9"></polygon>
+            <g id="Group" transform="translate(7.000000, 83.000000)">
+                <path d="M115.9,28.5 C116,31.5 114.1,34.2 111.3,35.2 L84.2,44.5 C59.4,53 66.5,53 41.9,44.7 C31.4,41.2 37.2,44.3 5.8,20.2 C3.2,18.5 1.9,16.6 1.1,13.8 C1.1,13.8 1.1,13.8 1.1,13.8 C1.1,13.8 1,13.5 1,13.3 C0.9,13.3 0.8,11.3 0.8,11.2 C0.8,3 9.9,-2.1 16.9,2.2 L47.3,20.7 C47.3,20 47.3,19.9 47.3,19 C47.2,19 47.3,17.5 47.3,17.4 C47.3,17.4 47.3,18 47.3,18 C47.3,18.2 47.3,18.4 47.4,18.5 C47.5,18.2 47.5,17.8 47.6,17.5 C47.4,16.7 47.3,15.8 47.3,14.9 C47.3,12 48.5,9.4 50.4,7.4 C52.3,5.5 55,4.3 57.9,4.3 L112.4,7.4 C114.1,7.5 115.4,8.8 115.4,10.5 L115.5,15.4 L115.5,15.8 L115.9,28.5 Z" id="Shape" fill="#C5DCFA"></path>
+                <path d="M57.8,25.5 L85.2,25.5 L57.2,27.5 C51.4,27.5 46.6,22.8 46.6,16.9 C46.6,15.4 46.9,14.1 47.4,12.8 C47.3,13.5 47.2,14.2 47.2,14.9 C47.2,20.8 51.9,25.5 57.8,25.5 Z" id="Shape" fill="#BAD3F5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

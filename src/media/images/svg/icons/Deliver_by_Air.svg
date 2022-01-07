@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="102px" viewBox="0 0 147 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Deliver_by_Air</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Deliver_by_Air" fill-rule="nonzero">
+            <g id="Group" transform="translate(28.000000, 42.000000)">
+                <path d="M119,59.9 L0.6,59.9 C0.6,32.5 18.8,11 41.9,3.6 C51.5,0.5 62,-0.2 72.4,2.1 C77,3.1 81.5,4.7 85.9,6.9 C102.3,15 114.3,30.4 117.9,48.8 C118.6,52.4 119,56.1 119,59.9 Z" id="Shape" fill="#4988FD"></path>
+                <path d="M72.5,57.7 C72,58.4 71.5,59.1 71.1,59.9 L45.2,59.9 C44.8,56.9 44.7,53.8 44.8,50.8 C45.4,38.7 40.2,36.9 33.2,28.3 C27.3,20.9 28.5,19.4 41,4.7 L41.9,3.6 C51.5,0.5 62,-0.2 72.4,2.1 L75.1,2.8 C78.9,3.8 82.5,5.2 85.9,6.9 C85.9,14.5 86.7,23.7 89.7,30.6 C94.5,40.9 78.9,49 72.5,57.7 Z" id="Shape" fill="#21D3AC"></path>
+            </g>
+            <path d="M44.3,33.3 C20.7,48.3 6.5,73.9 6.4,101.8 L0.4,101.8 C0.5,71.8 15.7,44.3 41.2,28.3 C42.6,27.4 44.5,27.8 45.3,29.2 C46.1,30.6 45.7,32.4 44.3,33.3 Z" id="Shape" fill="#C5DCFA"></path>
+            <g id="Group" transform="translate(49.000000, 0.000000)">
+                <path d="M30.8,17.7 L36.9,0.7 L42,0.3 C45.3,0.1 48.2,2.5 48.6,5.7 L49.2,15.9" id="Shape" fill="#2767F4"></path>
+                <path d="M48.1,31.3 L73.4,29.2 C76.1,29 78.4,27.4 79.5,24.9 L81.2,21.4 L71.2,16.9 C67.3,15.1 63,14.4 58.7,14.9 L15.5,19.2 L8,13 C5.8,11.2 2.8,10.3 0,10.7 L5,28 C6.1,32 9.9,34.6 14,34.2 L30.3,32.8" id="Shape" fill="#4988FD"></path>
+                <path d="M29.6,26.4 L32.1,49.3 L37.6,48.9 C40.6,48.6 43.2,46.6 44.2,43.7 L50.2,24.8" id="Shape" fill="#6097FD"></path>
+            </g>
+            <path d="M147,101.9 L129.9,101.9 C132.9,91.9 137.1,91.5 146,90.8 C146.6,94.4 147,98.1 147,101.9 Z" id="Shape" fill="#21D3AC"></path>
+        </g>
+    </g>
+</svg>

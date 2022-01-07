@@ -1,0 +1,27 @@
+a.active.editor-tab-item {
+  font-weight: 700;
+}
+ a.editor-tab-item.active,
+ .nav a.editor-tab-item:hover,
+ .nav a.editor-tab-item:active {
+   background: #2c303a;
+   color:#fff;
+ }
+
+ a.editor-tab-item.active::before {
+   position: absolute;
+   left: 0;
+   top: 0;
+   bottom: 0;
+   content: '';
+   width: 3px;
+   background: #47cf73;
+   -webkit-transform: translateX(-100%);
+   transform: translateX(-100%);
+   -webkit-transition: inherit;
+   transition: inherit;
+ }
+
+ .editor-tab-item{
+   color: #000;
+ }

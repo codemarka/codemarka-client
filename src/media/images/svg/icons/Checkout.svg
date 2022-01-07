@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="97px" viewBox="0 0 140 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Checkout</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkout" fill-rule="nonzero">
+            <polygon id="Shape" fill="#84AFFD" points="139.1 89.2 112 96.6 104.5 95.2 39.2 83.3 44.6 33.9 47.9 3.8 55.5 3.5 115.1 0.5 117.9 1.3 119.4 1.8 130.9 0.2"></polygon>
+            <path d="M105.1,38.8 L105.1,92.9 C105.1,93.7 104.9,94.5 104.5,95.2 L39.2,83.2 L44.6,33.8 L100.1,33.8 C102.9,33.9 105.1,36.1 105.1,38.8 Z" id="Shape" fill="#6FA2FD"></path>
+            <ellipse id="Oval" fill="#3973F4" cx="62.9" cy="13.3" rx="3.7" ry="4.3"></ellipse>
+            <ellipse id="Oval" fill="#3973F4" cx="91.8" cy="12.5" rx="3.7" ry="4.3"></ellipse>
+            <path d="M139.1,89.2 L119.5,77.9 C119.5,77.9 117.9,11.4 117.9,1.3 L119.4,1.7 L130.9,0.2 L139.1,89.2 Z" id="Shape" fill="#3973F4"></path>
+            <polygon id="Shape" fill="#4988FD" points="119.5 77.9 119.3 78.3 112 96.6 115.1 0.5 117.9 1.3 119.4 1.8"></polygon>
+            <path d="M76,43.4 C75.8,43.4 75.7,43.4 75.5,43.4 C65.6,42.8 60.1,31.3 60.9,13 C60.9,11.9 61.9,11.1 63,11.1 C64.1,11.1 65,12.1 64.9,13.2 C64.2,28.8 68.5,39 75.8,39.5 C81.2,39.8 88.1,29.7 89.9,12.2 C90,11.1 91,10.3 92.1,10.4 C93.2,10.5 94,11.5 93.9,12.6 C91.9,30.8 84.5,43.4 76,43.4 Z" id="Shape" fill="#FFFFFF"></path>
+            <g id="Group" transform="translate(0.000000, 28.000000)">
+                <g>
+                    <path d="M98.5,5.8 L98.5,59.9 C98.5,62.6 96.3,64.9 93.5,64.9 L5,64.9 C2.3,64.9 0,62.7 0,59.9 L0,5.8 C0,3.1 2.2,0.8 5,0.8 L93.5,0.8 C96.3,0.8 98.5,3.1 98.5,5.8 Z" id="Shape" fill="#4988FD"></path>
+                    <rect id="Rectangle-path" fill="#3973F4" x="0.1" y="14.3" width="98.4" height="11.9"></rect>
+                    <path d="M57.1,46.9 L48,46.9 C47,46.9 46.3,46.1 46.3,45.2 C46.3,44.2 47.1,43.5 48,43.5 L57.1,43.5 C58.1,43.5 58.8,44.3 58.8,45.2 C58.8,46.2 58,46.9 57.1,46.9 Z" id="Shape" fill="#C5DCFA"></path>
+                    <path d="M42.5,46.9 L12.2,46.9 C11.2,46.9 10.5,46.1 10.5,45.2 C10.5,44.2 11.3,43.5 12.2,43.5 L42.5,43.5 C43.5,43.5 44.2,44.3 44.2,45.2 C44.2,46.2 43.4,46.9 42.5,46.9 Z" id="Shape" fill="#C5DCFA"></path>
+                    <path d="M25.8,53.9 L12.2,53.9 C11.2,53.9 10.5,53.1 10.5,52.2 C10.5,51.3 11.3,50.5 12.2,50.5 L25.8,50.5 C26.8,50.5 27.5,51.3 27.5,52.2 C27.5,53.1 26.7,53.9 25.8,53.9 Z" id="Shape" fill="#C5DCFA"></path>
+                </g>
+                <circle id="Oval" fill="#3973F4" cx="84.1" cy="52.1" r="6.5"></circle>
+                <circle id="Oval" fill="#6097FD" cx="75.4" cy="52.1" r="6.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="143px" height="142px" viewBox="0 0 143 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Target</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Target" fill-rule="nonzero">
+            <circle id="Oval" fill="#2767F4" cx="76.9" cy="75.8" r="65.5"></circle>
+            <circle id="Oval" fill="#4988FD" cx="76.9" cy="75.8" r="42.7"></circle>
+            <circle id="Oval" fill="#2767F4" cx="76.9" cy="75.8" r="19.7"></circle>
+            <g id="Group">
+                <path d="M49.3,44 L78.1,72.8 C79.4,74.1 79.4,76.2 78.1,77.5 C76.8,78.8 74.7,78.8 73.4,77.5 L10.1,14.2 C8.8,12.9 8.8,10.8 10.1,9.5 C11.4,8.2 13.5,8.2 14.8,9.5 L36.6,31.3" id="Shape" fill="#C5DCFA"></path>
+                <path d="M43.6,29.9 L43.7,27.8 C43.9,25 42.9,22.3 40.9,20.4 L21.2,0.7 C19.8,-0.7 17.4,0.2 17.3,2.2 L16.4,16 L2.6,16.9 C0.6,17 -0.2,19.4 1.1,20.8 L20.8,40.5 C22.8,42.5 25.5,43.5 28.2,43.3 L39.5,42.5 C41.3,42.4 42.8,40.9 42.9,39.1 L43.6,29.9 Z" id="Shape" fill="#21D3AC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

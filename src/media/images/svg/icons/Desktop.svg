@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="91px" viewBox="0 0 148 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" fill-rule="nonzero">
+            <polyline id="Shape" fill="#2767F4" points="36.4 87.1 36.4 75.1 64.3 75.1 64.3 87.1 50.4 87.1"></polyline>
+            <path d="M40,85.9 L35.5,85.9 C32.8,85.9 30.5,88.1 30.5,90.9 L70.1,90.9 C70.1,88.2 67.9,85.9 65.1,85.9 L54.6,85.9" id="Shape" fill="#3973F4"></path>
+            <path d="M100.5,10.6 L100.5,75.2 C100.5,77.4 98.7,79.2 96.5,79.2 L4,79.2 C1.8,79.2 0,77.4 0,75.2 L0,10.6 C0,8.4 1.8,6.6 4,6.6 L96.5,6.6 C98.6,6.6 100.4,8.2 100.5,10.3 C100.5,10.4 100.5,10.5 100.5,10.6 Z" id="Shape" fill="#4988FD"></path>
+            <polyline id="Shape" fill="#FFFFFF" points="94.6 60.1 94.6 70.7 6 70.7 6 12.1 94.6 12.1 94.6 49.1"></polyline>
+            <path d="M143.1,90.6 L109.4,90.6 C106.7,90.6 104.5,88.4 104.5,85.7 L104.5,5.8 C104.5,3.1 106.7,0.9 109.4,0.9 L143.1,0.9 C145.8,0.9 148,3.1 148,5.8 L148,85.7 C148,88.4 145.8,90.6 143.1,90.6 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M138.8,12.7 L113.5,12.7 C112.4,12.7 111.5,11.8 111.5,10.7 C111.5,9.6 112.4,8.7 113.5,8.7 L138.8,8.7 C139.9,8.7 140.8,9.6 140.8,10.7 C140.9,11.7 140,12.7 138.8,12.7 Z" id="Shape" fill="#2767F4"></path>
+            <path d="M138.8,22.9 L113.5,22.9 C112.4,22.9 111.5,22 111.5,20.9 C111.5,19.8 112.4,18.9 113.5,18.9 L138.8,18.9 C139.9,18.9 140.8,19.8 140.8,20.9 C140.9,22 140,22.9 138.8,22.9 Z" id="Shape" fill="#2767F4"></path>
+            <path d="M130.8,74.3 L121.6,74.3 C120.5,74.3 119.6,73.4 119.6,72.3 C119.6,71.2 120.5,70.3 121.6,70.3 L130.8,70.3 C131.9,70.3 132.8,71.2 132.8,72.3 C132.8,73.3 131.9,74.3 130.8,74.3 Z" id="Shape" fill="#2767F4"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="126.2" cy="59.4" r="6"></circle>
+        </g>
+    </g>
+</svg>

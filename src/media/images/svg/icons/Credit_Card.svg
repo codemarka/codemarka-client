@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="143px" height="94px" viewBox="0 0 143 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Credit_Card</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Credit_Card" fill-rule="nonzero">
+            <g id="Group">
+                <path d="M142.2,8.1 L142.2,86.3 C142.2,90.2 139,93.5 135,93.5 L7.2,93.5 C3.3,93.5 0,90.3 0,86.3 L0,8.1 C0,4.2 3.2,0.9 7.2,0.9 L135,0.9 C139,0.9 142.2,4.1 142.2,8.1 Z" id="Shape" fill="#4988FD"></path>
+                <rect id="Rectangle-path" fill="#3973F4" x="0.1" y="20.3" width="142.1" height="17.2"></rect>
+                <path d="M82.4,67.5 L69.3,67.5 C67.9,67.5 66.8,66.4 66.8,65 C66.8,63.6 67.9,62.5 69.3,62.5 L82.4,62.5 C83.8,62.5 84.9,63.6 84.9,65 C84.9,66.4 83.8,67.5 82.4,67.5 Z" id="Shape" fill="#C5DCFA"></path>
+                <path d="M61.3,67.5 L17.6,67.5 C16.2,67.5 15.1,66.4 15.1,65 C15.1,63.6 16.2,62.5 17.6,62.5 L61.3,62.5 C62.7,62.5 63.8,63.6 63.8,65 C63.8,66.4 62.7,67.5 61.3,67.5 Z" id="Shape" fill="#C5DCFA"></path>
+                <path d="M37.2,77.5 L17.6,77.5 C16.2,77.5 15.1,76.4 15.1,75 C15.1,73.6 16.2,72.5 17.6,72.5 L37.2,72.5 C38.6,72.5 39.7,73.6 39.7,75 C39.7,76.4 38.6,77.5 37.2,77.5 Z" id="Shape" fill="#C5DCFA"></path>
+            </g>
+            <circle id="Oval" fill="#3973F4" cx="121.4" cy="74.9" r="9.4"></circle>
+            <circle id="Oval" fill="#6097FD" cx="108.9" cy="74.9" r="9.4"></circle>
+        </g>
+    </g>
+</svg>

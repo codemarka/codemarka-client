@@ -1,0 +1,264 @@
+i.deleted_message {
+  color: grey;
+  font-size: 0.7rem;
+}
+
+div.main_message_container {
+  position: relative;
+  cursor: pointer;
+}
+
+div.message_actions {
+  color: grey;
+  position: absolute;
+  display: flex;
+  right: 0;
+  top: -30px;
+  align-items: center;
+  justify-content: space-between;
+  width: auto;
+  background: black;
+  padding: 7px;
+  border-radius: 5px;
+}
+
+div.message_thread_input_container {
+  display: flex;
+  width: 100%;
+}
+
+.message_thread_input_container .form-group {
+  width: 100%;
+}
+
+.message_thread_input_container .form-group .input-group>.custom-select:not(:last-child), .input-group>.form-control:not(:last-child) {
+  border-top-right-radius: .375rem!important;
+  border-bottom-right-radius: .375rem!important;
+}
+
+.thread_container {
+  display: flex;
+  height: auto;
+  max-height: 50vh;
+  overflow-y: auto;
+  flex-direction: column;
+}
+
+.thread_user_message_info {
+  font-size: .9rem;
+  color: #000;
+  border-left: 2px solid grey;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.thread_user_icon {
+  width: 35px;
+  padding-right: 30px
+}
+
+.thread_user_icon img {
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: .7rem;
+}
+
+.thread_user_name_date_message {
+  margin-top: .1rem;
+}
+
+.thread_replies_container {
+  /* background: rgb(44, 56, 72); */
+  color: #000!important;
+}
+
+.thread_user_container span {
+  font-weight: bolder;
+  font-size: 1.2rem;
+  width: 100%;
+}
+
+.thread_user_container small {
+  font-size: .7rem;
+}
+
+.thread_reply {
+  display: flex;
+  flex-direction: column;
+  float: left;
+  width: 100%;
+  clear: both;
+  line-height: 18px;
+  font-size: .9rem;
+  position: relative;
+  animation: message 2s ease;
+}
+
+.thread_reply .username {
+  color: rgb(164, 204, 153);
+}
+
+.thread_reply .username small {
+  color: grey;
+  font-family: italic;
+  font-weight: bolder;
+}
+
+.thread_reply .message {
+  color: #000;
+  clear: both;
+  line-height: 18px;
+  font-size: .8rem;
+  position: relative;
+  animation: message 2s ease;
+  padding: 0;
+  margin: 0;
+}
+
+.thread_reply_user {
+  display: flex;
+  flex-direction: row;
+}
+
+.thread_reply_user_image {
+  margin-right: 1rem;
+}
+
+.thread_reply_user_image img {
+  height: 30px;
+  border-radius: 5px;
+}
+
+.thread_reply_user_username span {
+  font-weight: bolder;
+}
+
+.message__reply_bar {
+  margin: 4px 0 -2px -5px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  padding: 4px;
+  font-size: 13px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  overflow: hidden;
+  height: 34px;
+}
+
+.thread_message_reply_user_image {
+  height: 24px;
+  width: 24px;
+  margin-right: 4px;
+  flex-shrink: 0;
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  position: relative;
+}
+
+.thread_message_reply_user_image img {
+  border-radius: 4px;
+  flex-shrink: 0;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.c-message__reply_bar_description {
+  position: relative;
+  margin-left: 8px;
+  color: rgba(var(--sk_foreground_max_solid, 97, 96, 97), 1);
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.c-message__reply_bar_last_reply {
+  opacity: 1;
+  transition: opacity .2s;
+}
+
+.c-message__reply_bar_view_thread {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity .2s;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+a.thread_link {
+  color: grey!important;
+}
+
+.message_reaction_container {
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+.c-reaction {
+  font-size: 11px;
+  line-height: 16px;
+  padding: 4px 6px;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: top;
+  border: none;
+  border-radius: 12px;
+  margin-right: 5px;
+  margin-bottom: 4px;
+  margin-right: 4px;
+}
+
+.c-button-unstyled {
+  background: none;
+  border: 1px solid;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  overflow: initial;
+  text-align: initial;
+  vertical-align: initial;
+  cursor: pointer;
+}
+
+.c-emoji {
+  overflow: hidden;
+  display: inline-flex;
+  vertical-align: top;
+  align-items: center;
+  object-fit: contain;
+}
+
+.c-emoji__small {
+  width: 16px;
+  height: 16px;
+}
+
+.c-reaction .c-emoji:not(:last-child) {
+  margin-right: 2px;
+}
+
+.c-reaction__count {
+  padding: 0 1px 0 3px;
+  font-weight: 700;
+}
+
+.c-reaction--reacted {
+  border: 1px solid #5252bb;
+  background: #2c2c71;
+}
+
+.disabled {
+  color: grey;
+  font-style: italic;
+}

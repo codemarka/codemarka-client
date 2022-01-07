@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="150px" viewBox="0 0 96 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Speaker</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Speaker" fill-rule="nonzero">
+            <g id="Group" transform="translate(7.000000, 139.000000)" fill="#2767F4">
+                <path d="M18.7,0.3 L1.5,0.3 C0.7,0.3 0,1 0,1.8 L0,9.1 C0,9.9 0.7,10.6 1.5,10.6 L18.7,10.6 C19.5,10.6 20.2,9.9 20.2,9.1 L20.2,1.8 C20.2,0.9 19.6,0.3 18.7,0.3 Z" id="Shape"></path>
+                <path d="M79.5,0.3 L62.3,0.3 C61.5,0.3 60.8,1 60.8,1.8 L60.8,9.1 C60.8,9.9 61.5,10.6 62.3,10.6 L79.5,10.6 C80.3,10.6 81,9.9 81,9.1 L81,1.8 C81,0.9 80.4,0.3 79.5,0.3 Z" id="Shape"></path>
+            </g>
+            <path d="M84.9,142.5 L10.9,142.5 C4.9,142.5 0,137.6 0,131.6 L0,11.8 C0,5.8 4.9,0.9 10.9,0.9 L84.9,0.9 C90.9,0.9 95.8,5.8 95.8,11.8 L95.8,131.6 C95.8,137.6 90.9,142.5 84.9,142.5 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M88.5,89.2 C88.5,112.1 69.4,130.5 46.3,129.5 C25.7,128.6 8.9,111.8 7.9,91.2 C7.1,74.6 16.4,60 30.2,53.2 C34.1,51.3 35.4,46.3 32.8,42.8 C30.2,39.4 28.8,35 29.1,30.3 C29.7,20.9 37.3,13.3 46.6,12.7 C57.6,12 66.7,20.7 66.7,31.5 C66.7,35.7 65.3,39.5 63,42.7 C60.4,46.2 61.8,51.2 65.7,53.1 C79.2,59.4 88.5,73.2 88.5,89.2 Z" id="Shape" fill="#C5DCFA"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="47.9" cy="31.4" r="10.6"></circle>
+            <circle id="Oval" fill="#BAD3F5" cx="47.9" cy="31.4" r="6.5"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="48.2" cy="89.2" r="31.1"></circle>
+            <circle id="Oval" fill="#BAD3F5" cx="48.3" cy="89.3" r="11.1"></circle>
+        </g>
+    </g>
+</svg>

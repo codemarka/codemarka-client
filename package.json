@@ -1,0 +1,63 @@
+{
+  "name": "codemarka",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/",
+  "dependencies": {
+    "@monaco-editor/react": "3.3.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "ace-builds": "^1.4.12",
+    "axios": "0.19.0",
+    "brace": "^0.11.1",
+    "date-fns": "2.8.1",
+    "date-fns-timezone": "0.1.4",
+    "detectrtc": "^1.4.1",
+    "emoji-mart": "^3.0.0",
+    "lodash.isequal": "^4.5.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-ace": "^9.2.0",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.4.1",
+    "react-toastify": "5.4.1",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.5",
+    "socket.io-client": "^2.2.0",
+    "styled-components": "5.1.1",
+    "webrtc-adapter": "7.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dual": "concurrently \"npm start \" \"cd ../codemarka-server & npm run watch-debug\"",
+    "build": "rm -rf ./build && react-scripts build",
+    "deploy-prod": "rm -rf ./build && react-scripts build  && firebase deploy --only hosting:main",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "client-install": "npm install --prefix client",
+    "lint": "eslint --quiet --color --fix --quiet -f stylish --ext js,jsx src",
+    "deploy-dev": "rm -rf ./build && react-scripts build && netlify deploy --prod"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.11.0"
+  }
+}

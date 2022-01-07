@@ -1,0 +1,135 @@
+{
+  "editor.formatOnSave": false,
+  "editor.detectIndentation": true,
+  "editor.fontSize": 15,
+  "editor.lightbulb.enabled": true,
+  "editor.parameterHints.enabled": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.rulers": [],
+  "editor.snippetSuggestions": "top",
+  "editor.wordBasedSuggestions": false,
+  "editor.suggest.localityBonus": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "terminal.integrated.shell.windows": "C:\\Program Files (x86)\\Git\\bin\\bash.exe",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggest.filteredTypes": {
+      "keyword": false,
+    },
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggest.filteredTypes": {
+      "keyword": false,
+    },
+  },
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.glyphMargin": false,
+  "editor.folding": true,
+  "files.exclude": {
+    "USE_GITIGNORE": true
+  },
+  "javascript.suggest.autoImports": true,
+  "javascript.validate.enable": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/.build": true,
+    "**/.gh-pages": true
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.options": {
+    "env": {
+      "browser": true,
+      "jest/globals": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "jsx": true
+      }
+    },
+    "rules": {
+      "no-debugger": "off"
+    }
+  },
+  "terminal.integrated.scrollback": 10000,
+  "files.associations": {
+    "*.md": "mdx"
+  },
+  "explorer.openEditors.visible": 3,
+  "editor.lineNumbers": "on",
+  "workbench.colorTheme": "One Dark Pro",
+  "breadcrumbs.enabled": true,
+  "prettier.bracketSpacing": false,
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.jsxBracketSameLine": false,
+  "prettier.semi": false,
+  "prettier.useTabs": false,
+  "prettier.proseWrap": "always",
+  "prettier.requireConfig": true,
+  // "local-history.absolute": true,
+  // "local-history.path": "/Users/kentcdodds/.vscode-history",
+  "grunt.autoDetect": "off",
+  "npm.runSilent": true,
+  "gulp.autoDetect": "off",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDragAndDrop": true,
+  "workbench.sideBar.location": "left",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": true,
+  "workbench.activityBar.visible": true,
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "plaintext", "mdx"],
+  "spellright.parserByClass": {
+    "mdx": {
+      "parser": "markdown"
+    }
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "editor.cursorSmoothCaretAnimation": false,
+  "editor.smoothScrolling": false,
+  "workbench.panel.defaultLocation": "right",
+  "php.suggest.basic": false,
+  "typescript.suggest.autoImports": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "vsicons.dontShowNewVersionMessage": true
+}

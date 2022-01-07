@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="143px" viewBox="0 0 127 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat" fill-rule="nonzero">
+            <path d="M126.6,80.1 C126.6,80.5 126.6,80.8 126.6,81.2 C126.5,94.9 126.1,113.2 126,139.4 C126,142.1 123,143.8 120.7,142.4 L96.1,127.4 L94.2,126.2 C89.7,123.4 84.2,122.7 79,124 C74,125.3 68.7,126 63.3,126 C58.7,126 54.1,125.5 49.8,124.6 C25.5,119.3 6.3,99.8 1.5,75.2 C0.7,71.4 0.4,67.4 0.3,63.4 C0.2,28.6 28.3,0.3 63.1,0.3 C87.1,0.3 109.4,14.4 119.7,35.9 C120.1,36.8 120.6,37.7 121,38.7 C125.8,49.8 126.7,59.8 126.6,80.1 Z" id="Shape" fill="#3973F4"></path>
+            <path d="M121.6,64.8 C121.6,65.1 121.6,65.5 121.6,65.8 C121.5,78.8 121.1,95.9 121,120.2 C121,124.6 116.1,127.4 112.3,125 C89,110.8 91.6,112.4 89.1,110.9 C84.5,108.1 79.1,107.4 74,108.7 C69,110 63.7,110.7 58.3,110.7 C53.7,110.7 49.1,110.2 44.8,109.2 C25.8,105 9.9,92.2 1.6,75.1 C0.8,71.3 0.5,67.3 0.4,63.3 C0.3,28.5 28.4,0.2 63.2,0.2 C87.2,0.2 109.5,14.3 119.8,35.8 C121.3,43.4 121.6,52.1 121.6,64.8 Z" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" fill="#DFECFD" cx="32.8" cy="64.5" r="9.3"></circle>
+            <circle id="Oval" fill="#DFECFD" cx="63.3" cy="64.5" r="9.3"></circle>
+            <circle id="Oval" fill="#DFECFD" cx="93.8" cy="64.5" r="9.3"></circle>
+        </g>
+    </g>
+</svg>

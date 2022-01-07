@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="71px" viewBox="0 0 149 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Whistle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Whistle" fill-rule="nonzero">
+            <path d="M41.7,0.5 L148.2,0.5 L148.2,16.8 C148.2,22.7 144.1,27.8 138.3,29.1 L92.1,39.1 C84.1,40.8 77.2,45.6 72.7,52.3" id="Shape" fill="#4988FD"></path>
+            <path d="M7.1,41.7 C6.9,41.7 6.7,41.7 6.4,41.7 C3,41.7 0.2,38.9 0.2,35.5 C0.2,32.1 3,29.3 6.4,29.3 L7.1,29.3" id="Shape" fill="#3973F4"></path>
+            <path d="M80.3,0.5 C82,2.6 84.1,5.3 85.5,7.1 C86.6,8.5 88.3,9.4 90.1,9.4 L97.5,9.4 C98.7,9.4 99.7,8.4 99.7,7.2 L99.7,0.5" id="Shape" fill="#3973F4"></path>
+            <circle id="Oval" fill="#6097FD" cx="41.7" cy="35.6" r="35.1"></circle>
+            <circle id="Oval" fill="#3973F4" cx="41.7" cy="35.6" r="15.3"></circle>
+        </g>
+    </g>
+</svg>

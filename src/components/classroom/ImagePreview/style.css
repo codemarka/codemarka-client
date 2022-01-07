@@ -1,0 +1,37 @@
+.image_upload_preview {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  left: 0;
+  align-content: center;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  background-color: #00000085;
+  padding: 40px;
+  border-radius: 6px;
+  z-index: 999999;
+  flex-direction: column;
+}
+
+.image_upload_content {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.close_preview_button__ {
+  position: absolute;
+  color: rgb(241 241 241);
+  z-index: 99;
+  right: 0;
+  cursor: pointer;
+  border: none;
+  left: 50%;
+  right: 50%;
+  top: 1%;
+  background: none;
+}

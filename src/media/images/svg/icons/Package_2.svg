@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="138px" viewBox="0 0 145 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Package_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Package_2" fill-rule="nonzero">
+            <path d="M0.2,20.4 L73.6,34.3 L74,137.2 L0.3,117.6 C0.2,117.5 0.2,21.3 0.2,20.4 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M144.1,16.4 L73.6,34.3 L74,137.2 L144.1,112.7 C144.1,112.6 144.1,16.4 144.1,16.4 Z" id="Shape" fill="#3973F4"></path>
+            <polygon id="Shape" fill="#6097FD" points="144.1 16.4 73.6 34.3 39.9 27.9 33.5 26.7 0.2 20.4 73.2 0.6 89.7 4.3 97 5.9 100.7 6.7 106.7 8.1"></polygon>
+            <polygon id="Shape" fill="#3973F4" points="106.7 8.1 39.9 27.9 33.5 26.7 100.7 6.7"></polygon>
+            <path d="M37,116.3 L10.9,110.3 C10,110.1 9.4,109.3 9.4,108.4 L9.4,91.6 C9.4,90.3 10.6,89.4 11.8,89.7 L37.9,95.7 C38.8,95.9 39.4,96.7 39.4,97.6 L39.4,114.4 C39.4,115.6 38.2,116.6 37,116.3 Z" id="Shape" fill="#DFECFD"></path>
+            <path d="M34.6,103.5 C34.5,103.5 34.4,103.5 34.3,103.5 L12.5,98.5 C11.9,98.4 11.5,97.7 11.6,97.1 C11.7,96.5 12.4,96.1 13,96.2 L34.8,101.2 C35.4,101.3 35.8,102 35.7,102.6 C35.6,103.1 35.1,103.5 34.6,103.5 Z" id="Shape" fill="#6097FD"></path>
+            <path d="M25.3,107.8 C25.2,107.8 25.1,107.8 25,107.8 L12.5,104.9 C11.9,104.8 11.5,104.1 11.6,103.5 C11.7,102.9 12.4,102.5 13,102.6 L25.5,105.5 C26.1,105.6 26.5,106.3 26.4,106.9 C26.3,107.5 25.8,107.8 25.3,107.8 Z" id="Shape" fill="#6097FD"></path>
+        </g>
+    </g>
+</svg>

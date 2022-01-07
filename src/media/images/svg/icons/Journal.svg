@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="145px" viewBox="0 0 123 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Journal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Journal" fill-rule="nonzero">
+            <path d="M108.9,132.6 L29.6,132.6 C22.1,132.6 15.9,126.5 15.9,118.9 L15.9,14.2 C15.9,6.7 22,0.5 29.6,0.5 L108.9,0.5 C116.4,0.5 122.6,6.6 122.6,14.2 L122.6,119 C122.5,126.5 116.4,132.6 108.9,132.6 Z" id="Shape" fill="#2767F4"></path>
+            <path d="M31.7,144.7 L28.4,141.3 C27.8,140.7 26.9,140.7 26.3,141.3 L22.6,144.8 C22,145.3 21.1,144.9 21.1,144.2 L21.1,129.3 L33.2,129.3 L33.2,144.1 C33.2,144.8 32.3,145.2 31.7,144.7 Z" id="Shape" fill="#DFECFD"></path>
+            <path d="M107.2,14.3 L107.2,119 C107.2,126.5 101.1,132.7 93.5,132.7 L14.1,132.7 C6.6,132.7 0.4,126.6 0.4,119 L0.4,14.3 C0.4,6.8 6.5,0.6 14.1,0.6 L93.5,0.6 C101.1,0.6 107.2,6.8 107.2,14.3 Z" id="Shape" fill="#4988FD"></path>
+            <rect id="Rectangle-path" fill="#FFFFFF" x="66.8" y="0.6" width="12.3" height="132"></rect>
+            <rect id="Rectangle-path" fill="#DFECFD" x="66.8" y="0.6" width="12.1" height="132"></rect>
+        </g>
+    </g>
+</svg>

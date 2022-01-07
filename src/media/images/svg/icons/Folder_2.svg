@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="100px" viewBox="0 0 146 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Folder_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Folder_2">
+            <path d="M124.5,82.4 L18.2,82.4 C14,82.4 10.7,79 10.7,74.9 L10.7,7.8 C10.7,3.6 14.1,0.3 18.2,0.3 L124.4,0.3 C128.6,0.3 131.9,3.7 131.9,7.8 L131.9,74.9 C132,79 128.6,82.4 124.5,82.4 Z" id="Shape" fill="#3973F4" fill-rule="nonzero"></path>
+            <path d="M132,42.8 L132,74.9 C132,79.1 128.6,82.4 124.5,82.4 L18.2,82.4 C14,82.4 10.7,79 10.7,74.9 L10.7,40" id="Shape" stroke="#1676EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M137,15.9 L93.5,15.9 C89.3,15.9 85.2,17.4 81.9,20 L70.5,29.3 C67.2,32 63.1,33.4 58.9,33.4 L9.4,33.4 C3.9,33.4 -0.4,38.3 0.5,43.8 L9.5,92.1 C10.2,96.6 14.1,100 18.6,100 L124.1,100 C128.6,100 132.5,96.7 133.2,92.3 L145.9,26.4 C146.8,20.9 142.6,15.9 137,15.9 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

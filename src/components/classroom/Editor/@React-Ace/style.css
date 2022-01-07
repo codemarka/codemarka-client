@@ -1,0 +1,13 @@
+.ace_editor, .ace_editor * {
+  font-family: "Monaco", "Menlo", "Ubuntu Mono", "Droid Sans Mono", "Consolas", monospace !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+}
+
+.editor-container {
+  display:flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: space-around;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="137px" height="145px" viewBox="0 0 137 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>File_Dock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="File_Dock" fill-rule="nonzero">
+            <path d="M109.7,17.4 L109.7,79 L27,79 L27,5.7 C27,2.6 29.5,0.1 32.6,0.1 L104,0.1 C107.1,0.1 109.6,2.6 109.6,5.6 L109.7,17.4 Z" id="Shape" fill="#C5DCFA"></path>
+            <path d="M118.7,17.3 L118.7,105 L18.9,105 L18.9,17.3 C18.9,13.6 21.9,10.6 25.6,10.6 L111.9,10.6 C115.7,10.6 118.7,13.6 118.7,17.3 Z" id="Shape" fill="#D1E4FC"></path>
+            <path d="M125.5,30.5 L125.5,131.7 L11.3,131.7 L11.3,30.5 C11.3,26.2 14.8,22.7 19.1,22.7 L117.7,22.7 C122,22.7 125.5,26.2 125.5,30.5 Z" id="Shape" fill="#DFECFD"></path>
+            <path d="M125.5,94.7 L125.5,138.7 L11.3,138.7 L11.3,94.7 L43.5,94.7 C43.5,94.8 43.5,94.9 43.5,95 C43.5,108.7 54.8,119.8 68.7,119.8 C82.6,119.8 93.9,108.7 93.9,95 L93.9,94.7 L125.5,94.7 Z" id="Shape" fill="#D1E4FC"></path>
+            <path d="M136.4,99.5 L136.4,134.5 C136.4,140.1 131.8,144.7 126.2,144.7 L11.1,144.7 C5.5,144.7 0.9,140.1 0.9,134.5 L0.9,99.5 L43.5,99.5 C43.5,99.6 43.5,99.7 43.5,99.8 C43.5,113.7 54.8,125 68.7,125 C82.6,125 93.9,113.7 93.9,99.8 L93.9,99.5 L136.4,99.5 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M136.4,128.6 L136.4,134.5 C136.4,140.1 131.8,144.7 126.2,144.7 L11.1,144.7 C5.5,144.7 0.9,140.1 0.9,134.5 L0.9,126.2 C1.2,131.1 5.5,135 10.8,135 L127,135 C131.4,135.1 135.1,132.4 136.4,128.6 Z" id="Shape" fill="#2767F4"></path>
+            <path d="M77.9,77.4 C77.8,77.4 77.7,77.4 77.6,77.4 C77.1,77.3 76.6,77 76.3,76.6 L61.8,55.3 L33.3,74.7 C32.4,75.3 31.1,75.1 30.5,74.2 C29.9,73.3 30.1,72 31,71.4 L61.1,50.9 C62,50.3 63.3,50.5 63.9,51.4 L78.4,72.6 L104.5,53.3 C105.4,52.6 106.6,52.8 107.3,53.7 C108,54.6 107.8,55.8 106.9,56.5 L79.2,77 C78.8,77.3 78.3,77.4 77.9,77.4 Z" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" stroke="#6097FD" stroke-width="2" fill="#6097FD" cx="32.1" cy="73" r="6"></circle>
+            <circle id="Oval" stroke="#6097FD" stroke-width="2" fill="#6097FD" cx="62.3" cy="52.5" r="6"></circle>
+            <circle id="Oval" stroke="#6097FD" stroke-width="2" fill="#6097FD" cx="77.9" cy="75.4" r="6"></circle>
+            <circle id="Oval" stroke="#6097FD" stroke-width="2" fill="#6097FD" cx="105.6" cy="54.9" r="6"></circle>
+        </g>
+    </g>
+</svg>

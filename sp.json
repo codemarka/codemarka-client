@@ -1,0 +1,58 @@
+{
+    "name": "codemarka",
+    "version": "0.1.0",
+    "private": true,
+    "homepage": "/",
+    "dependencies": {
+      "@monaco-editor/react": "3.3.1",
+      "@testing-library/jest-dom": "^4.2.4",
+      "@testing-library/react": "^9.3.2",
+      "@testing-library/user-event": "^7.1.2",
+      "axios": "0.19.0",
+      "codemirror": "^5.48.0",
+      "date-fns": "2.8.1",
+      "date-fns-timezone": "0.1.4",
+      "peerjs": "1.2.0",
+      "react": "^16.8.6",
+      "react-codemirror2": "^6.0.0",
+      "react-dom": "^16.8.6",
+      "react-helmet": "^5.2.1",
+      "react-redux": "^7.1.0",
+      "react-router-dom": "^5.0.1",
+      "react-scripts": "3.0.1",
+      "react-spinners-kit": "1.9.1",
+      "react-toastify": "5.4.1",
+      "redux": "^4.0.1",
+      "redux-saga": "^1.0.5",
+      "simple-peer": "9.7.2",
+      "socket.io-client": "^2.2.0",
+      "styled-components": "5.1.1"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "dual": "concurrently \"npm start \" \"cd ../colab-server & npm run watch-debug\"",
+      "build": "rm -rf ./build && react-scripts build",
+      "deploy-prod": "rm -rf ./build && react-scripts build  && firebase deploy",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "client-install": "npm install --prefix client",
+      "lint": "eslint --quiet --color --fix --quiet -f stylish --ext js,jsx src",
+      "deploy-dev": "rm -rf ./build && react-scripts build && netlify deploy --prod"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="145px" viewBox="0 0 106 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Tablet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" fill-rule="nonzero">
+            <path d="M95.4,144.3 L10.2,144.3 C4.6,144.3 0,139.8 0,134.1 L0,10.4 C0,4.8 4.5,0.2 10.2,0.2 L95.4,0.2 C101,0.2 105.6,4.7 105.6,10.4 L105.6,134.1 C105.5,139.7 101,144.3 95.4,144.3 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M105.5,10.4 L105.5,134.1 C105.5,139.7 101,144.2 95.3,144.2 L10.1,144.2 C4.5,144.2 0,139.7 0,134.1 L0,10.4 C0,4.8 4.5,0.3 10.1,0.3 L95.3,0.3 C101,0.3 105.5,4.8 105.5,10.4 Z" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" fill="#2767F4" cx="52.8" cy="135" r="4.7"></circle>
+            <g id="Group" transform="translate(43.000000, 4.000000)" fill="#2767F4">
+                <path d="M17.4,2.9 L7.1,2.9 C6.4,2.9 5.8,2.3 5.8,1.6 C5.8,0.9 6.4,0.3 7.1,0.3 L17.4,0.3 C18.1,0.3 18.7,0.9 18.7,1.6 C18.7,2.3 18.1,2.9 17.4,2.9 Z" id="Shape"></path>
+                <path d="M2.5,2.9 L2.1,2.9 C1.4,2.9 0.8,2.3 0.8,1.6 C0.8,0.9 1.4,0.3 2.1,0.3 L2.5,0.3 C3.2,0.3 3.8,0.9 3.8,1.6 C3.9,2.3 3.3,2.9 2.5,2.9 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-path" fill="#FFFFFF" x="3.5" y="10.2" width="98.5" height="116"></rect>
+        </g>
+    </g>
+</svg>

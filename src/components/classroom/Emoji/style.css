@@ -1,0 +1,20 @@
+.picker-container {
+  display: block;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  z-index: 99;
+}
+
+.picker-message {
+  display: flex;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  padding-left: 17%;
+  padding-top: 17%;
+  box-shadow: none;
+  box-shadow: none!important;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="112px" viewBox="0 0 146 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop_3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_3" fill-rule="nonzero">
+            <path d="M92.5,106.5 L92.5,111.4 L54.7,111.4 L54.7,106.5 C54.7,104.9 56,103.7 57.5,103.7 L59.5,103.7 L59.5,103.6 L62.9,90 L85.6,90 L89,103.6 L89,103.7 L89.6,103.7 C91.2,103.7 92.5,105 92.5,106.5 Z" id="Shape" fill="#3973F4"></path>
+            <path d="M92.5,106.5 L92.5,111.4 L54.7,111.4 L54.7,106.5 C54.7,104.9 56,103.7 57.5,103.7 L59.5,103.7 L59.5,103.6 L89,103.6 L89,103.7 L89.6,103.7 C91.2,103.7 92.5,105 92.5,106.5 Z" id="Shape" fill="#4988FD"></path>
+            <g id="Group">
+                <path d="M145.9,6.6 L145.9,86.4 C145.9,90 143,92.8 139.5,92.8 L7.3,92.8 C3.8,92.8 0.9,89.9 0.9,86.4 L0.9,6.6 C0.9,3 3.8,0.2 7.3,0.2 L139.5,0.2 C143,0.2 145.9,3 145.9,6.6 Z" id="Shape" fill="#DFECFD"></path>
+                <path d="M145.9,6.6 L145.9,78.5 L0.8,78.5 L0.8,6.6 C0.8,3 3.7,0.2 7.2,0.2 L139.4,0.2 C143,0.2 145.9,3 145.9,6.6 Z" id="Shape" fill="#4988FD"></path>
+                <circle id="Oval" fill="#C4D9F2" cx="73.6" cy="85.7" r="3.7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

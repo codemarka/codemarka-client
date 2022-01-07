@@ -1,0 +1,53 @@
+.comm_bg_img {
+  /* background-image: url('https://images.pexels.com/photos/2678468/pexels-photo-2678468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); */
+  /* background-position: center;
+  background-size: cover; */
+  /* background-color: #141d36; */
+background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.details_container {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 65px;
+}
+
+.logo_container {
+  margin-bottom: 10px;
+  float: left;
+}
+
+.p-text {
+  font-size: larger;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.community_container {
+  background-image: url('../../media/images/images.png');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.community_vector_img_bg {
+  background-image: url('../../media/images/svg/illustrations/illustration-11.svg');
+  background-position: center;
+  background-size: cover;
+}
+
+.container-custom-final-steps {
+  min-height: 100vh;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1d2836;
+  margin: 0;
+  width: 100% !important;
+  padding: 0;
+}

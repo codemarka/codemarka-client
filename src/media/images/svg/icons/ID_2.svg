@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="128px" viewBox="0 0 93 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ID_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ID_2" fill-rule="nonzero">
+            <g id="Group">
+                <path d="M9.9,127.7 L83.3,127.7 C88.3,127.7 92.3,123.7 92.3,118.7 L92.3,9.5 C92.3,4.5 88.3,0.5 83.3,0.5 L9.9,0.5 C4.9,0.5 0.9,4.5 0.9,9.5 L0.9,118.7 C0.9,123.6 4.9,127.7 9.9,127.7 Z" id="Shape" fill="#4988FD"></path>
+                <path d="M74.2,78.1 L21,78.1 C19.9,78.1 19,77.2 19,76.1 C19,75 19.9,74.1 21,74.1 L74.2,74.1 C75.3,74.1 76.2,75 76.2,76.1 C76.2,77.2 75.4,78.1 74.2,78.1 Z" id="Shape" fill="#2767F4"></path>
+                <path d="M74.2,93.6 L21,93.6 C19.9,93.6 19,92.7 19,91.6 C19,90.5 19.9,89.6 21,89.6 L74.2,89.6 C75.3,89.6 76.2,90.5 76.2,91.6 C76.2,92.7 75.4,93.6 74.2,93.6 Z" id="Shape" fill="#2767F4"></path>
+                <path d="M47.7,109.1 L21.1,109.1 C20,109.1 19.1,108.2 19.1,107.1 C19.1,106 20,105.1 21.1,105.1 L47.7,105.1 C48.8,105.1 49.7,106 49.7,107.1 C49.7,108.2 48.8,109.1 47.7,109.1 Z" id="Shape" fill="#2767F4"></path>
+            </g>
+            <circle id="Oval" fill="#DFECFD" cx="47.5" cy="38.4" r="22.4"></circle>
+            <path d="M58.5,48.2 C58.5,49.3 57.4,49.3 57.4,49.3 L36.9,49.3 C36.9,49.3 35.8,49.3 35.8,48.2 C35.8,45.6 37.3,43.5 39,41.3 C39.6,40.5 40.6,39.3 42,38 C43.4,39.4 45.4,40.2 47.5,40.2 C49.5,40.2 51.4,39.4 52.8,38.2 C55.7,40.7 58.5,44.6 58.5,48.2 Z" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" fill="#4988FD" cx="47.6" cy="32.1" r="6.4"></circle>
+        </g>
+    </g>
+</svg>

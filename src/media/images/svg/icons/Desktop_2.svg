@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="123px" viewBox="0 0 147 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_2" fill-rule="nonzero">
+            <polyline id="Shape" fill="#3973F4" points="51.9 117 51.9 95.9 95.1 95.9 95.1 117 73.6 117"></polyline>
+            <polyline id="Shape" fill="#2767F4" points="51.9 106.7 51.9 95.1 95.1 95.1 95.1 106.7 73.6 106.7"></polyline>
+            <path d="M57.5,115.1 L50.5,115.1 C46.3,115.1 42.8,118.5 42.8,122.8 L104.2,122.8 C104.2,118.6 100.8,115.1 96.5,115.1 L80.2,115.1" id="Shape" fill="#4988FD"></path>
+            <path d="M146.4,5.1 L146.4,95.6 C146.4,98.4 144.1,100.7 141.3,100.7 L5.7,100.7 C2.9,100.7 0.6,98.4 0.6,95.6 L0.6,5.1 C0.6,2.3 2.9,0 5.7,0 L141.3,0 C144,0 146.3,2.1 146.4,4.8 C146.4,4.9 146.4,5 146.4,5.1 Z" id="Shape" fill="#4988FD"></path>
+            <polyline id="Shape" fill="#FFFFFF" points="138.7 65.2 138.7 78.7 8.2 78.7 8.2 9.6 138.7 9.6 138.7 51.1"></polyline>
+            <circle id="Oval" fill="#2767F4" cx="73.5" cy="89.7" r="4.9"></circle>
+        </g>
+    </g>
+</svg>

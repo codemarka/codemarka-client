@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="146px" viewBox="0 0 142 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>XLS_File</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XLS_File">
+            <path d="M140.6,36.1 L141.8,139.5 C141.8,143 139,145.8 135.5,145.8 L35,145.8 C31.5,145.8 28.7,143 28.7,139.5 L28.7,6.6 C28.7,3.1 31.5,0.3 35,0.3 L107.9,0.3 L140.6,36.1 Z" id="Shape" fill="#DFECFD" fill-rule="nonzero"></path>
+            <path d="M128.2,71.2 L45.5,71.2 C44.7,71.2 44,70.5 44,69.7 C44,68.9 44.7,68.2 45.5,68.2 L128.2,68.2 C129,68.2 129.7,68.9 129.7,69.7 C129.7,70.5 129,71.2 128.2,71.2 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M128.2,84.1 L45.5,84.1 C44.7,84.1 44,83.4 44,82.6 C44,81.8 44.7,81.1 45.5,81.1 L128.2,81.1 C129,81.1 129.7,81.8 129.7,82.6 C129.7,83.4 129,84.1 128.2,84.1 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M128.2,96.9 L45.5,96.9 C44.7,96.9 44,96.2 44,95.4 C44,94.6 44.7,93.9 45.5,93.9 L128.2,93.9 C129,93.9 129.7,94.6 129.7,95.4 C129.7,96.2 129,96.9 128.2,96.9 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M77.6,125.2 L74,125.2 C73.2,125.2 72.5,124.5 72.5,123.7 C72.5,122.9 73.2,122.2 74,122.2 L77.6,122.2 C78.4,122.2 79.1,122.9 79.1,123.7 C79.1,124.5 78.4,125.2 77.6,125.2 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M67.4,125.2 L46,125.2 C45.2,125.2 44.5,124.5 44.5,123.7 C44.5,122.9 45.2,122.2 46,122.2 L67.4,122.2 C68.2,122.2 68.9,122.9 68.9,123.7 C68.9,124.5 68.2,125.2 67.4,125.2 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M124.8,109 L48.9,109 C46.2,109 44,106.8 44,104 L44,60.2 C44,57.4 46.2,55.2 48.9,55.2 L124.8,55.2 C127.5,55.2 129.7,57.4 129.7,60.2 L129.7,104 C129.7,106.7 127.5,109 124.8,109 Z M48.8,58.1 C47.8,58.1 46.9,59 46.9,60.1 L46.9,103.9 C46.9,105 47.8,105.9 48.8,105.9 L124.7,105.9 C125.7,105.9 126.6,105 126.6,103.9 L126.6,60.1 C126.6,59 125.7,58.1 124.7,58.1 L48.8,58.1 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M95.3,21.9 L47,21.9 C45.9,21.9 45,21 45,19.9 C45,18.8 45.9,17.9 47,17.9 L95.2,17.9 C96.3,17.9 97.2,18.8 97.2,19.9 C97.2,21 96.4,21.9 95.3,21.9 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+            <path d="M65.5,33.4 L47,33.4 C45.9,33.4 45,32.5 45,31.4 C45,30.3 45.9,29.4 47,29.4 L65.4,29.4 C66.5,29.4 67.4,30.3 67.4,31.4 C67.4,32.5 66.6,33.4 65.5,33.4 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+            <path d="M107.9,0.3 L107.9,28.8 C107.9,32.7 111.4,36.1 115.3,36.1 L140.6,36.1" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M59.3,84.4 L5.5,84.4 C2.7,84.4 0.4,82.1 0.4,79.3 L0.4,54.8 C0.4,52 2.7,49.7 5.5,49.7 L59.3,49.7 C62.1,49.7 64.4,52 64.4,54.8 L64.4,79.3 C64.3,82.1 62.1,84.4 59.3,84.4 Z" id="Shape" fill="#4988FD" fill-rule="nonzero"></path>
+            <text id="X" fill="#FFFFFF" font-family="Helvetica" font-size="20.9718" font-weight="normal">
+                <tspan x="11.6079" y="74.4321">X</tspan>
+            </text>
+            <text id="L" fill="#FFFFFF" font-family="Helvetica" font-size="20.9718" font-weight="normal">
+                <tspan x="27.8726" y="74.4321">L</tspan>
+            </text>
+            <text id="S" fill="#FFFFFF" font-family="Helvetica" font-size="20.9718" font-weight="normal">
+                <tspan x="41.147" y="74.4321">S</tspan>
+            </text>
+            <path d="M99.5,107.9 C98.7,107.9 98,107.2 98,106.4 L98,56.6 C98,55.8 98.7,55.1 99.5,55.1 C100.3,55.1 101,55.8 101,56.6 L101,106.4 C101,107.2 100.4,107.9 99.5,107.9 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+            <path d="M73.3,107.9 C72.5,107.9 71.8,107.2 71.8,106.4 L71.8,56.6 C71.8,55.8 72.5,55.1 73.3,55.1 C74.1,55.1 74.8,55.8 74.8,56.6 L74.8,106.4 C74.8,107.2 74.2,107.9 73.3,107.9 Z" id="Shape" fill="#C5DCFA" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

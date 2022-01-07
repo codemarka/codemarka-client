@@ -1,16 +1,28 @@
-### Hi there 👋
+[![Build Status](https://travis-ci.com/CeoFred/codemarka.svg?token=8zGCZEFENvahi3TRnh5R&branch=master)](https://travis-ci.com/CeoFred/codemarka)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87db2963-eef7-46f6-a2c1-cda901408905/deploy-status)](https://app.netlify.com/sites/codemarka/deploys)
 
-<!--
-**codemarka/codemarka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#codemarka
+A real time coding platform for teams with an additional conversation flow feature.
 
-Here are some ideas to get you started:
+## Getting started with codemarka
+- clone the repo
+- cd repo
+- npm install --save
+- npm start
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Features
+- Real time chat
+- Real Time code editing
+- Single Administrator
+- Live code base preview
+- classroom link shortner
+- Code Liniting
+- Multiple administrators
+- Classroom mentions
+
+Future AdOns
+
+- Realtime audio recording
+- Classroom screen monitoring with audio and video
+- Support multiple files
+- LESS,SCSS,Typscript,Markdown.

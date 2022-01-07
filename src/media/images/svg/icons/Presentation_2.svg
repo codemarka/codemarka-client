@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="146px" viewBox="0 0 99 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Presentation_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Presentation_2" fill-rule="nonzero">
+            <rect id="Rectangle-path" fill="#6097FD" x="46.7" y="100.5" width="6.3" height="45.4"></rect>
+            <polygon id="Shape" fill="#6097FD" points="84.3 133 78.2 133 66.6 103.2 71.7 101"></polygon>
+            <polygon id="Shape" fill="#6097FD" points="11.8 133 17.9 133 29.5 103.2 24.4 101"></polygon>
+            <rect id="Rectangle-path" fill="#4988FD" x="46.7" y="100.5" width="6.3" height="10.5"></rect>
+            <polygon id="Shape" fill="#4988FD" points="75.7 111 69.6 111 66.6 103.2 71.7 101"></polygon>
+            <polygon id="Shape" fill="#4988FD" points="29.5 103.2 26.5 111 20.5 111 24.4 101"></polygon>
+            <path d="M98.7,2.4 L98.7,6.1 C98.7,7 98,7.7 97.1,7.7 L2,7.7 C1.1,7.7 0.4,7 0.4,6.1 L0.4,2.4 C0.4,1.5 1.1,0.8 2,0.8 L97.1,0.8 C98,0.7 98.7,1.5 98.7,2.4 Z" id="Shape" fill="#6097FD"></path>
+            <path d="M87.5,103 L11.6,103 C8.3,103 5.6,100.3 5.6,97 L5.6,7.8 L93.5,7.8 L93.5,97 C93.5,100.3 90.8,103 87.5,103 Z" id="Shape" fill="#DFECFD"></path>
+            <path d="M23.7,91.2 L16.5,91.2 C15.7,91.2 15.1,90.6 15.1,89.8 L15.1,42.8 C15.1,42 15.7,41.3 16.5,41.3 L23.7,41.3 C24.5,41.3 25.1,41.9 25.1,42.8 L25.1,89.8 C25.1,90.6 24.5,91.2 23.7,91.2 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M62.6,91.2 L55.4,91.2 C54.6,91.2 54,90.6 54,89.8 L54,64.8 C54,64 54.6,63.4 55.4,63.4 L62.6,63.4 C63.4,63.4 64,64 64,64.8 L64,89.8 C64,90.6 63.4,91.2 62.6,91.2 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M82,91.2 L74.8,91.2 C74,91.2 73.4,90.6 73.4,89.8 L73.4,75.8 C73.4,75 74,74.4 74.8,74.4 L82,74.4 C82.8,74.4 83.4,75 83.4,75.8 L83.4,89.8 C83.5,90.6 82.8,91.2 82,91.2 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M43.1,91.2 L35.9,91.2 C35.1,91.2 34.5,90.6 34.5,89.8 L34.5,54.6 C34.5,53.8 35.1,53.2 35.9,53.2 L43.1,53.2 C43.9,53.2 44.5,53.8 44.5,54.6 L44.5,89.8 C44.6,90.6 43.9,91.2 43.1,91.2 Z" id="Shape" fill="#4988FD"></path>
+            <g id="Group" transform="translate(54.000000, 17.000000)">
+                <path d="M26.3,12.3 L14.3,19.4 L13.7,5.5 C6.3,5.8 0.4,11.9 0.4,19.4 C0.4,27.1 6.6,33.4 14.4,33.4 C22.2,33.4 28.4,27.2 28.4,19.4 C28.3,16.8 27.5,14.4 26.3,12.3 Z" id="Shape" fill="#4988FD"></path>
+                <path d="M28.8,7.4 C26.4,3.3 21.9,0.5 16.8,0.5 C16.6,0.5 16.4,0.5 16.2,0.5 L16.8,14.4 L28.8,7.4 Z" id="Shape" fill="#21D3AC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

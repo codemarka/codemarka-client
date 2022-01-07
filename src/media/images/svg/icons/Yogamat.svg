@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="143px" height="73px" viewBox="0 0 143 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Yogamat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Yogamat" transform="translate(-1.000000, 0.000000)" fill-rule="nonzero">
+            <path d="M143.3,24.4 C143.3,32.5 139.3,39.7 133.1,44 L132.9,44.1 C132.3,44.5 131.8,44.8 131.2,45.2 L94.2,68.2 L92.9,69 L78.2,58.9 L73.7,27.7 L69.2,23.6 L106.9,4 C110.5,1.8 114.8,0.5 119.4,0.5 C128.8,0.5 137,5.9 140.9,13.8 C142.4,17 143.3,20.6 143.3,24.4 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M143.3,24.4 C143.3,32.5 139.3,39.7 133.1,44 L132.9,44.1 C132.3,44.5 131.8,44.8 131.2,45.2 L94.2,68.2 L81.1,59.2 L80.5,54.9 L84.9,57.9 L127.8,31.3 C128.5,30.9 129.1,30.5 129.8,30.1 L130,30 C135.4,26.2 139.4,20.5 140.8,13.8 C142.4,17 143.3,20.6 143.3,24.4 Z" id="Shape" fill="#3973F4"></path>
+            <path d="M55.1,42.3 L62.5,42.3 C62.5,42.3 81.5,71.7 81.5,72.6 L3.2,72.6 C1.1,72.6 0.1,69.9 1.9,68.6 L34.8,43.8 C36,42.9 37.6,42.4 39.1,42.4 L55.1,42.4" id="Shape" fill="#4988FD"></path>
+            <circle id="Oval" fill="#6A9EFD" cx="80.3" cy="46.7" r="25.6"></circle>
+            <circle id="Oval" stroke="#4988FD" stroke-width="4" fill="#6A9EFD" cx="80.2" cy="46.8" r="16"></circle>
+            <circle id="Oval" stroke="#4988FD" stroke-width="4" fill="#6A9EFD" cx="80.2" cy="46.8" r="5.3"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="112px" viewBox="0 0 146 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Safe_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Safe_2" fill-rule="nonzero">
+            <path d="M136.7,103.5 L9,103.5 C4.4,103.5 0.6,99.8 0.6,95.1 L0.6,8.4 C0.6,3.8 4.3,0 9,0 L136.8,0 C141.4,0 145.2,3.7 145.2,8.4 L145.2,95.1 C145.1,99.7 141.4,103.5 136.7,103.5 Z" id="Shape" fill="#4988FD"></path>
+            <path d="M127.5,93.3 L18.2,93.3 C14.1,93.3 10.7,90 10.7,85.8 L10.7,17.6 C10.7,13.5 14,10.1 18.2,10.1 L127.5,10.1 C131.6,10.1 135,13.4 135,17.6 L135,85.8 C135,90 131.6,93.3 127.5,93.3 Z M18.2,14.2 C16.3,14.2 14.7,15.7 14.7,17.7 L14.7,85.9 C14.7,87.8 16.2,89.4 18.2,89.4 L127.5,89.4 C129.4,89.4 131,87.9 131,85.9 L131,17.7 C131,15.8 129.5,14.2 127.5,14.2 L18.2,14.2 Z" id="Shape" fill="#3973F4"></path>
+            <path d="M48.7,25.6 C34.2,25.6 22.3,37.4 22.3,52 C22.3,66.6 34.1,78.4 48.7,78.4 C63.2,78.4 75.1,66.6 75.1,52 C75.1,37.4 63.2,25.6 48.7,25.6 Z M68.1,52 C68.1,56 66.9,59.8 64.8,62.9 L58.5,56.6 C59.2,55.2 59.5,53.7 59.5,52 C59.5,46 54.6,41.2 48.7,41.2 C47.1,41.2 45.5,41.6 44.1,42.2 L37.8,35.9 C40.9,33.8 44.6,32.6 48.7,32.6 C59.4,32.6 68.1,41.3 68.1,52 Z M48.7,48.2 C50.8,48.2 52.5,49.9 52.5,52 C52.5,54.1 50.8,55.8 48.7,55.8 C46.6,55.8 44.9,54.1 44.9,52 C44.9,49.9 46.6,48.2 48.7,48.2 Z M29.3,52 C29.3,47.9 30.6,44 32.8,40.9 L39,47.1 C38.2,48.6 37.8,50.2 37.8,52 C37.8,58 42.7,62.8 48.6,62.8 C50.4,62.8 52,62.4 53.5,61.6 L59.7,67.8 C56.5,70 52.7,71.3 48.6,71.3 C38,71.4 29.3,62.7 29.3,52 Z" id="Shape" fill="#C5DCFA"></path>
+            <g id="Group" transform="translate(82.000000, 32.000000)" fill="#C5DCFA">
+                <rect id="Rectangle-path" x="0.4" y="0.8" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="14.1" y="0.8" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="27.8" y="0.8" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="0.4" y="16.3" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="14.1" y="16.3" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="27.8" y="16.3" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="0.4" y="31.7" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="14.1" y="31.7" width="7.7" height="7.7"></rect>
+                <rect id="Rectangle-path" x="27.8" y="31.7" width="7.7" height="7.7"></rect>
+            </g>
+            <path d="M25.5,111.3 L15.6,111.3 C14.3,111.3 13.3,110.3 13.3,109 L13.3,103.5 L27.8,103.5 L27.8,109 C27.8,110.3 26.8,111.3 25.5,111.3 Z" id="Shape" fill="#3973F4"></path>
+            <path d="M127.7,111.3 L117.8,111.3 C116.5,111.3 115.5,110.3 115.5,109 L115.5,103.5 L130,103.5 L130,109 C129.9,110.3 128.9,111.3 127.7,111.3 Z" id="Shape" fill="#3973F4"></path>
+        </g>
+    </g>
+</svg>
