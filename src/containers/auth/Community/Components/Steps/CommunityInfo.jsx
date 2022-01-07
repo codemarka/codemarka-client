@@ -91,7 +91,7 @@ const mappedCountry = countyJson.map((country) => {
               return {...s,controls:updatedConrols,formisvalid: true}
             });
          }
-     }, [oldData]);
+     }, [oldData, formControls.controls]);
      
       const handleInputChage = (e) => {
           const controlName = e.target.name
@@ -123,7 +123,6 @@ const mappedCountry = countyJson.map((country) => {
                         e.target.classList.remove('is-valid')
                         e.target.classList.add('is-invalid')
                     }
-
 
           let formisvalid = true
           for (const inputIdentifier in updatedControls) {
@@ -185,7 +184,7 @@ const mappedCountry = countyJson.map((country) => {
                   type={formControls.alertType}
                   display={formControls.formErrored}
                   >
-                  {formControls.formErrorMessage}
+                      {formControls.formErrorMessage}
                   </Alert>
               </div>
               <div class="col-md-6">

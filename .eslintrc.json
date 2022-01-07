@@ -27,6 +27,8 @@
         "no-shadow": [1],
         "camelcase": [1],
         "no-underscore-dangle": [0, "always"],
-        "array-callback-return":"off"
+        "array-callback-return":"off",
+        "no-mixed-operators": "off",
+        "no-unused-vars": "off"
     }
 }

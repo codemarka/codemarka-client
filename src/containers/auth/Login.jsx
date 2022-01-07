@@ -10,8 +10,6 @@ import React, { useState, useEffect } from 'react'
 import { connect } from 'react-redux'
 import { Link, Redirect } from 'react-router-dom'
 
-import Github from '../../components/Partials/Auth/Button/Github'
-import Google from '../../components/Partials/Auth/Button/Google'
 import Button from '../../components/Partials/Button'
 import Input from '../../components/Partials/Input'
 import Helmet from '../../components/SEO/helmet'
@@ -21,7 +19,6 @@ import Alert from '../../components/Partials/Alert/Alert'
 import * as action from '../../store/actions'
 import * as APPURLS from '../../config/url';
 import { updateObject } from '../../utility/shared';
-import Logo from '../../media/images/logo/codemark__logo.png'
 import './style.css';
 
 const initialPrependsvg = (

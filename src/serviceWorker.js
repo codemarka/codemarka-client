@@ -66,7 +66,6 @@ function registerValidSW(swUrl, config) {
               // At this point, the updated precached content has been fetched,
               // but the previous service worker will still serve the older
               // content until all client tabs are closed.
-              
 
               // Execute callback
               if (config && config.onUpdate) {
@@ -76,7 +75,6 @@ function registerValidSW(swUrl, config) {
               // At this point, everything has been precached.
               // It's the perfect time to display a
               // "Content is cached for offline use." message.
-              
 
               // Execute callback
               if (config && config.onSuccess) {

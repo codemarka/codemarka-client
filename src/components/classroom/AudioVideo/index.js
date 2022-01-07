@@ -130,7 +130,6 @@ export default function RTC(props) {
                 // request for current users in room;
 
                 signalingSocket.current.on('rtc_beep', async (caller) => {
-                    
 
                     await preparePeer()
                     if (
@@ -151,7 +150,6 @@ export default function RTC(props) {
                 })
 
                 signalingSocket.current.on('offer', (data) => {
-                    
 
                     if (
                         !peersRef.current[data.caller.kid] &&
@@ -204,7 +202,6 @@ export default function RTC(props) {
     }, [])
 
     function callPeer(user, myStream) {
-        
 
         const peer = createPeer(user)
         myStream.getTracks().forEach((track) => peer.addTrack(track, myStream))
@@ -217,7 +214,7 @@ export default function RTC(props) {
         peersRef.current[message.caller.kid] &&
             peersRef.current[message.caller.kid]
                 .setRemoteDescription(desc)
-                .catch((e) => )
+                .catch((e) => console.error(e))
         
     }
 
@@ -334,7 +331,7 @@ export default function RTC(props) {
                 peersRef.current[incoming.sender.kid] &&
                 peersRef.current[incoming.sender.kid]
                     .addIceCandidate(candidate)
-                    .catch((e) => )
+                    .catch((e) => console.error(e))
         }
     }
 
@@ -354,11 +351,10 @@ export default function RTC(props) {
                     caller: myData.current,
                     sdp: peersRef.current[kid].localDescription,
                 }
-                
 
                 signalingSocket.current.emit('offer', payload)
             })
-            .catch((e) => )
+            .catch((e) => console.error(e))
     }
 
     function hideVideo(e) {
@@ -461,7 +457,6 @@ export default function RTC(props) {
     }
 
     function handleTrackEvent(e, user) {
-        
 
         user &&
             user.kid &&

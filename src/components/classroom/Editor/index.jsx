@@ -73,7 +73,6 @@ function EditorAce(props) {
         });
 
         socketRef.current.on('class_files_updated', (data) => {
-
           
             const EditorName = data.file
             const updatedContentForEditor = data.content

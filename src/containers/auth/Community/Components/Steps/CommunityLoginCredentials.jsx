@@ -51,7 +51,6 @@ function CommunityLoginCredentials(props) {
                 touched: true,
             },
         }
-
         
         if (
             updatedControls[controlName].valid &&

@@ -132,7 +132,7 @@ export default function FetchUpcomingClass() {
                                                 <div>
                                                     <div className="icon icon-sm">
                                                         <img
-                                                            alt="Image placeholder"
+                                                            alt="Placeholder"
                                                             src={ comm.gravatar }
                                                             className="avatar  rounded-circle"
                                                         />

@@ -6,7 +6,6 @@ import Spinner from '../../../../../components/Partials/Preloader'
 import Alert from '../../../../../components/Partials/Alert/Alert'
 import * as APIURL from '../../../../../config/api_url'
 
-
 export default function CommunityContactInfo(props) {
  const { isValidatedAndShouldProceed, returnToPreviousForm, oldData } = props
 
@@ -68,7 +67,6 @@ export default function CommunityContactInfo(props) {
                         e.target.classList.add('is-invalid')
                     }
 
-
           let formisvalid = true
           for (const inputIdentifier in updatedControls) {
               formisvalid =
@@ -107,7 +105,7 @@ export default function CommunityContactInfo(props) {
                  return {...c, controls: updatedControls,formisvalid}
              });
          }
-     }, [oldData])
+     }, [oldData, formControls.controls])
      /**
       * Handle Form Submission
       * @param event Event
