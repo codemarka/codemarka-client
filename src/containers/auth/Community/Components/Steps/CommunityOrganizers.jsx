@@ -79,7 +79,6 @@ function CommunityInfo(props) {
                         e.target.classList.add('is-invalid')
                     }
 
-
           let formisvalid = true
           for (const inputIdentifier in updatedControls) {
               formisvalid =
@@ -118,7 +117,7 @@ function CommunityInfo(props) {
                 return {...s,controls:updatedControls,formisvalid}
               });
          }
-     }, [oldData])
+     }, [oldData, formControls.controls])
 
      /**
       * Handle Form Submission

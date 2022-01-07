@@ -39,37 +39,37 @@ export default function Home() {
               </div>
           </section>
           <section class="slice pt-5 pb-7 bg-section-secondary">
-          <div class="container">
-          <div class="row">
+              <div class="container">
+                  <div class="row">
                       {blogData.map(blogPost => {
                           return (
                               <div class="col-xl-4 col-md-6">
                                   <div class="card hover-translate-y-n3 hover-shadow-lg overflow-hidden">
                                       <div class="position-relative overflow-hidden"></div>
                                       <div class="card-body py-4">
-                          <small class="d-block text-sm mb-2">{blogPost.date}</small>
-                          <Link to={blogPost.url} class="h5 stretched-link lh-150">{blogPost.title}</Link>
-                          <p class="mt-3 mb-0 lh-170">{blogPost.shortDescription}</p>
+                                          <small class="d-block text-sm mb-2">{blogPost.date}</small>
+                                          <Link to={blogPost.url} class="h5 stretched-link lh-150">{blogPost.title}</Link>
+                                          <p class="mt-3 mb-0 lh-170">{blogPost.shortDescription}</p>
                                       </div>
                                       <div class="card-footer border-0 delimiter-top">
                                           <div class="row align-items-center">
                                               <div class="col-auto">
-                          <span class="avatar avatar-sm bg-primary rounded-circle">{blogPost.authorShortName}</span>
-                          <span class="text-sm mb-0 avatar-content">{blogPost.author}</span></div><div class="col text-right text-right">
-                                                  <div class="actions"><a href={blogPost.url} class="action-item">
-                                                      <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
+                                                  <span class="avatar avatar-sm bg-primary rounded-circle">{blogPost.authorShortName}</span>
+                                                  <span class="text-sm mb-0 avatar-content">{blogPost.author}</span></div><div class="col text-right text-right">
+                                                      <div class="actions"><a href={blogPost.url} class="action-item">
+                                                          <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
                                                           viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                                           stroke-width="2" stroke-linecap="round"
                                                           stroke-linejoin="round" class="feather feather-heart mr-1">
-                                                          <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg> 50</a>
-                                                      <a href={blogPost.url} class="action-item"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye mr-1">
-                                                          <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg> 250</a></div></div></div></div></div></div>
+                                                              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg> 50</a>
+                                                          <a href={blogPost.url} class="action-item"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye mr-1">
+                                                              <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg> 250</a></div></div></div></div></div></div>
                           )
                       })}
 
-           </div>
-           </div>
-           </section>
+                  </div>
+              </div>
+          </section>
       </div>
   )
 };

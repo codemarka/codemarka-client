@@ -6,11 +6,11 @@ function SearchContainer({ results, display }) {
     res = results.map(r => {
       return (
           <div className="list p-0 text-align-left" key={ r.kid }>
-          { r.name.toLowerCase() === 'no results found!!' ? (<b>Whoops! No result found</b>) : 
+              { r.name.toLowerCase() === 'no results found!!' ? (<b>Whoops! No result found</b>) : 
               (<div><a href={ `/c/classroom/${ r.kid }` } className="text-dark">
-                {r.topic}
+                  {r.topic}
               </a>
-            <p><small>by: {r.name.toLowerCase() || r.communityName.toLowerCase()}</small></p></div>)
+                  <p><small>by: {r.name.toLowerCase() || r.communityName.toLowerCase()}</small></p></div>)
             }
           </div>
       )
@@ -18,7 +18,7 @@ function SearchContainer({ results, display }) {
   }
   return (
       <div className={ `card ${ display ? 'd-block' : 'd-none' } h-50` }>
-      <div className="card-body border-r h-100 overflow-scroll">{res}</div>
+          <div className="card-body border-r h-100 overflow-scroll">{res}</div>
       </div>
   );
 }

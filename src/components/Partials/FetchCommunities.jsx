@@ -10,20 +10,20 @@ import * as APIURL from '../../config/api_url';
   const [state, setstate] = useState({ fetched: false, results: null });
   const content = useRef('');
   
-  const returnStars = (stars) => {
-    if(stars === 0) return;
-    for (let index = 0; index <= stars; index++) {
-      return (
-          <i className="fa fa-star" style={ {color:'yellow'} }></i>
-      )
-    }
-    const remaining = 5 - stars;
-    for (let index = 0; index <= remaining; index++) {
-      return (
-          <i className="fa fa-star"></i>
-      )
-    }
-  }
+  // const returnStars = (stars) => {
+  //   if(stars === 0) return;
+  //   for (let index = 0; index <= stars; index++) {
+  //     return (
+  //         <i className="fa fa-star" style={ {color:'yellow'} }></i>
+  //     )
+  //   }
+  //   const remaining = 5 - stars;
+  //   for (let index = 0; index <= remaining; index++) {
+  //     return (
+  //         <i className="fa fa-star"></i>
+  //     )
+  //   }
+  // }
   //  const upcomingSessionRefs = useRef('loading..');
    const [memberShipRequest, setmemberShipRequest] = useState({ loading: false });
   window.mem__bb__ = memberShipRequest;

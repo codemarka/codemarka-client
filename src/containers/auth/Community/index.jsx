@@ -100,9 +100,6 @@ import '../style.css';
        7: <SuccessInformation />,
    }
 
-
-
-
   return (
       <div className="community_container container-fluid">
           <Helmet title="Signup for a community Account - Codemarka" />

@@ -52,7 +52,7 @@ export default function Home() {
                                               </svg>
                                           </span>
                                           <span class="btn-inner--text">
-                                                  Contact us
+                                              Contact us
                                           </span>
                                       </a>
                                   </div>

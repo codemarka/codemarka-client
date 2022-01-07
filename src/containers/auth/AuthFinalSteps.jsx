@@ -102,7 +102,6 @@ function AuthFinalSteps({ onResetAll, match }) {
                     state: 'done',
                     verified: false,
                 })
-
                 
             })
     }, [])

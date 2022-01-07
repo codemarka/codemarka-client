@@ -118,8 +118,7 @@ export default function CommunitySocialMediaInfo(props) {
                return { ...c, controls: updatedControls,formisvalid}
             })
         }
-    }, [oldData])
-   
+    }, [oldData, formControls.controls])
 
      /**
       * Handle Form Submission

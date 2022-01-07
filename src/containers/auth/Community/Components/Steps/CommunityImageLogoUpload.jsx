@@ -5,6 +5,16 @@ import Spinner from '../../../../../components/Partials/Preloader'
 import * as APIURL from '../../../../../config/api_url';
 
 function CommunityImageLogoUpload(props) {
+  const [formControls, setFormControl] = useState({
+    controls: {
+        communityLogo: {
+            url: '',
+        },
+    },
+    formisvalid: true,
+    formisSubmitted: false,
+    inProgress:false
+  });
 
   const handlePreviousForm = (e) => {
       props.returnToPreviousForm(3)
@@ -84,8 +94,7 @@ function CommunityImageLogoUpload(props) {
               isValid: true,
               message: 'File too Large',
           })
-
-          
+       
           return false
       }
 
@@ -150,17 +159,6 @@ function CommunityImageLogoUpload(props) {
               });
       } 
   }
-
-  const [formControls, setFormControl] = useState({
-      controls: {
-          communityLogo: {
-              url: '',
-          },
-      },
-      formisvalid: true,
-      formisSubmitted: false,
-      inProgress:false
-  });
 
   return (
       <div className="row">

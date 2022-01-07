@@ -152,7 +152,7 @@ const MainClassLayout = ({
         uploading: false,
     })
 
-    const [userSpecificMessages, setUserSpecificMessages] = useState([])
+    const [userSpecificMessages] = useState([])
     const [userInvitationData, setUserInvitationData] = useState({
         value: '',
         socketFeedback: null,

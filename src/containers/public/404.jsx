@@ -20,10 +20,10 @@ export default function NotFound() {
                       </div>
                       <div className="col-12 col-md-6 col-xl-5 order-md-1 text-center text-md-left">
                           <h6 className="display-1 mb-3 font-weight-600 text-warning">
-                Ooops!
+                              Ooops!
                           </h6>
                           <p className="lead text-lg mb-5">
-                The page you are looking for could not be found.
+                              The page you are looking for could not be found.
                           </p>
                           <Link
                 to="/"

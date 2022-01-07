@@ -9,7 +9,7 @@ import Alert from '../../components/Partials/Alert/Alert'
 export default function Report(props) {
 
     const kid = props.match.params.kid;
-    const auth = useSelector(state => state.auth);
+    // const auth = useSelector(state => state.auth);
     const [report, setReport] = useState('')
     const [isSending, setIsSending] = useState(false);
     const [alertConfig, setAlertConfig] = useState({
