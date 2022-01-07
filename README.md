@@ -35,8 +35,7 @@ Future AdOns
 - Support multiple files
 - LESS,SCSS,Typscript,Markdown.
 
-Contributors
-<!-- Copy-paste in your Readme.md file -->
+# Awesome Contributors ![Awesome][awesome-badge]
 
 <a href = "https://github.com/codemarka/codemarka-client/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=codemarka/codemarka-client"/>
