@@ -78,8 +78,8 @@ export class classPreviewNewTab extends Component {
                const server =
                    process.env.NODE_ENV === 'production' ||
                    process.env.NODE_ENV === 'test'
-                       ? 'https://codemarka-server.herokuapp.com/api/v1/'
-                       : 'http://localhost:2001/api/v1/'
+                       ? 'https://codemarka-server.herokuapp.com/v1/'
+                       : 'http://localhost:2001/v1/'
                 const url = `${ server }classroom/preview/${ classroomKid }`
 
                 const searchClassroomRequest = new Request(url, {
