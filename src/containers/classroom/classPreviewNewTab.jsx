@@ -26,7 +26,7 @@ export class classPreviewNewTab extends Component {
       const host =
           process.env.NODE_ENV === 'production' ||
           process.env.NODE_ENV === 'test'
-              ? 'https://codemarka.herokuapp.com/'
+              ? 'https://codemarka-server.herokuapp.com/'
               : 'http://localhost:2001/'
 
       const socket = io(host, {
